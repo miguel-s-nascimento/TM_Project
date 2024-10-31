@@ -17,6 +17,8 @@ restaurants['encoded_Cuisines'] = one_hot_encoded.tolist()"""
 
 
 import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
 import math
 
 def plot_histogram(ax, df, column):
@@ -32,6 +34,9 @@ def plot_histograms(df, cols):
     axs = axs.flatten()
     for i in range(len(cols)):
         plot_histogram(axs[i], df, cols[i]) 
+    for ax in axs:
+        if not ax.has_data():  
+            fig.delaxes(ax) 
     plt.tight_layout()
     plt.show()
 
@@ -46,4 +51,18 @@ def plot_top10_bar(exploded_col):
     plt.ylabel('Count', fontsize=10)
     plt.xticks(rotation=45, ha='right', fontsize=8)
     plt.tight_layout()
+    plt.show()
+
+def plot_heatmap(df):
+    sns.heatmap(df.corr(numeric_only=True), 
+            vmin=-1, 
+            vmax=1, 
+            cmap=sns.diverging_palette(220, 20, as_cmap=True), 
+            annot=True,
+            fmt='.2f',
+            mask=np.triu(np.ones_like(df.corr(numeric_only=True), dtype=bool), k=1),
+            cbar_kws={"shrink": 0.8},
+            annot_kws={"size": 8.5}).set_title(f'Correlation Heatmap')
+    plt.xticks(fontsize=9)
+    plt.yticks(fontsize=9)
     plt.show()
