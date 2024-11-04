@@ -97,35 +97,3 @@ def plot_term_frequency(df, nr_terms, df_name, show=True):
 
     return fig
 
-def generate_bow_wordcloud(reviews_df, review_column, max_features=10000, ngram_range=(1, 3)):
-    """
-    Generates a word cloud based on the most frequent terms in a reviews DataFrame.
-    
-    Parameters:
-    - reviews_df (DataFrame): DataFrame containing the reviews.
-    - review_column (str): Column name where reviews are stored.
-    - max_features (int): Maximum number of features (most frequent terms) for the BOW model.
-    - ngram_range (tuple): N-gram range for the vectorizer.
-    
-    Returns:
-    - WordCloud image.
-    """
-    # Initialize CountVectorizer with the specified max features and n-gram range
-    trigram_bow_vectorizer = CountVectorizer(max_features=max_features, ngram_range=ngram_range, token_pattern=r"(?u)\b\w+\b")
-    
-    # Fit and transform the reviews to get the term-document matrix
-    reviews_bow_td_matrix = trigram_bow_vectorizer.fit_transform(reviews_df[review_column])
-    
-    # Convert to list and get feature names
-    reviews_df["initial_bow_vector"] = reviews_bow_td_matrix.toarray().tolist()
-    bow_word_list = trigram_bow_vectorizer.get_feature_names_out()
-    
-    # Calculate word frequencies
-    reviews_raw_vocabulary = Graphs.word_freq_calculator(reviews_bow_td_matrix, bow_word_list, df_output=False)
-    
-    # Generate word cloud
-    wc = WordCloud(background_color="white",max_words=120, width = 220,height = 220, color_func=lambda *args, **kwargs: (0,0,0))
-    wc.generate_from_frequencies(reviews_raw_vocabulary)
-    
-    # Return the word cloud image
-    return wc.to_image()
