@@ -16,14 +16,14 @@ def regex_cleaner(raw_text,
     newline_pattern = "(\\n)"
     hashtags_at_pattern = "([#\@@\u0040\uFF20\uFE6B])"
     hashtags_ats_and_word_pattern = "([#@]\w+)"
-    emojis_pattern = "([\u2600-\u27FF])"
-    url_pattern = "(?:\w+:\/{2})?(?:www)?(?:\.)?([a-z\d]+)(?:\.)([a-z\d\.]{2,})(\/[a-zA-Z\/\d]+)?" ##Note that this URL pattern is *even better*
+    emojis_pattern = "(\ud83c[\ud000-\udfff]|\ud83d[\ud000-\udfff]|\ud83e[\ud000-\udfff])"
+    url_pattern = "(?:https?://)?(?:www\.)?[a-zA-Z0-9.-]+\.(?:com)(?:/[a-zA-Z0-9./?=&_-]*)?" ##Note that this URL pattern
     punctuation_pattern = "[\u0021-\u0026\u0028-\u0029\u002B\u002C\u002E-\u002F\u003A-\u003F\u005B-\u005F\u2010-\u2028\ufeff`]+"
     apostrophe_pattern = "'(?=[A-Z\s])|(?<=[a-z\.\?\!\,\s])'"
     separated_words_pattern = "(?<=\w\s)([A-Z]\s){2,}"
     ##note that this punctuation_pattern doesn't capture ' this time to allow our tokenizer to separate "don't" into ["do", "n't"]
     
-    if no_emojis == True:
+    if no_emojis:
         clean_text = re.sub(emojis_pattern,"",raw_text)
     else:
         clean_text = raw_text
