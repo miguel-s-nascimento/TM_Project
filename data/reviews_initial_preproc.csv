@@ -1,4 +1,4 @@
-Restaurant,Reviewer,Review,Rating,Time,Pictures,N_reviews,Followers,Month,Year,Weekend,Post_Meal,msg_len,nr_sents
+Restaurant,Reviewer,Review,Rating,Time,Pictures,N_reviews,Followers,Month,Year,Weekend,Post_Meal,rev_len,nr_sents
 Beyond Flavours,Rusha Chakraborty,"The ambience was good, food was quite good . had Saturday lunch , which was cost effective .
 Good place for a sate brunch. One can also chill with friends and or parents.
 Waiter Soumen Das was really courteous and helpful.",5.0,2019-05-25 15:54:00,0,1,2,5,2019,1,1,224,5
@@ -32,7 +32,7 @@ Beyond Flavours,Sneha Sarkar,Service was too good and fast. Even these people we
 Beyond Flavours,Tony,"We had our farewell feast here recently enjoyed very well very good management so does the boys who gave complimentary food and made us more happy
 Food was perfect desserts, starters was wonderful",5.0,2019-05-21 05:43:00,0,8,25,5,2019,0,0,197,1
 Beyond Flavours,Amritap Datta,"Excellent experience, mouthwatering food, good ambience, a must go place in hyderabad. We were served by Shubhro and Papiya. They were awesome in their behaviour. Had an enjoyable evening with friends.",5.0,2019-05-20 23:33:00,0,1,,5,2019,0,1,201,4
-Beyond Flavours,Imteja7,The place is very good.. 5* to the live music.. She is just superb with beautiful voice.. Food is nice n loved the lightning..😍entrance is also very nice..,5.0,2019-05-20 14:17:00,0,3,,5,2019,0,1,155,1
+Beyond Flavours,Imteja7,The place is very good.. 5⭐ to the live music.. She is just superb with beautiful voice.. Food is nice n loved the lightning..😍entrance is also very nice..,5.0,2019-05-20 14:17:00,0,3,,5,2019,0,1,155,1
 Beyond Flavours,Nisha Gahlawat,"Sonalin has a great voice.. 😍 must visit the place once.. became fan of her. The food is good.. 5 star from my side. Live music, lightening everything is just awesome 😍",5.0,2019-05-20 12:45:00,0,2,1,5,2019,0,0,168,3
 Beyond Flavours,Dharini Hombal,I heard her voice..she is too beautiful with amazing voice ..just love her voice the way she sings 😍 became fan of Sonalin Priyadarshini. Good place must visit. The food is also nice..,5.0,2019-05-20 12:30:00,0,1,26,5,2019,0,0,184,3
 Beyond Flavours,Ankita Sinha,Sonalin is a very good singer in the city.. beautiful face with beautiful face must visit this place .. Beautiful live music.. loved it.. 😍 loved the food as well. Very good lightning.,5.0,2019-05-20 12:25:00,0,9,5,5,2019,0,0,184,2
@@ -226,7 +226,7 @@ Paradise,Moulika Reddy,"Order: drumsticks and chicken biryani
 
 Just awesome taste and good service
 
-5* rating
+5⭐ rating
 
 Good response from service boys and good serving
 
@@ -734,7 +734,7 @@ Shah Ghouse Hotel & Restaurant,Naga Sankar Devineni,The food served here is good
 Shah Ghouse Hotel & Restaurant,ప్రత్యూష సూరేపల్లి,"The Biryani is awesome, You will surely crave for it. but only NonVeg biryani.
 Chicken Shawarma is toooo good and yummy yummy, starters are also very tasty.",4.0,2019-04-08 06:58:00,0,1,,4,2019,0,0,157,3
 Shah Ghouse Hotel & Restaurant,Prem Vijayan,"Was trying to go to ter Charminar branch but due to small mistake in cab bookings ended up at tiz branch.. took Ter AC hall in d 1st floor.. typical resto arrangement and AC was mild and filled with Biryani Aroma...
-Ordered chicken tikka ₹230, juicy well marinated and perfectly cooked chicken, qty was huge.. served with mint chutney, spl.mutton Biryani ₹280, Biryani had huge portion which can easily serve two good eaters, Biryani was served with a egg and about 10-12 pics of tender mutton pcs... Biryani lived up to its legendary status... VFM 5/5...",4.0,2019-04-08 04:52:00,3,45,397,4,2019,0,0,556,1
+Ordered chicken tikka rupees230, juicy well marinated and perfectly cooked chicken, qty was huge.. served with mint chutney, spl.mutton Biryani rupees280, Biryani had huge portion which can easily serve two good eaters, Biryani was served with a egg and about 10-12 pics of tender mutton pcs... Biryani lived up to its legendary status... VFM 5/5...",4.0,2019-04-08 04:52:00,3,45,397,4,2019,0,0,566,1
 Shah Ghouse Hotel & Restaurant,Jai,"This is my first order in SHAH GHOUSE. Nice food perfectly cooked. I ordered Prawns biryani and i never had this taste in hyderabad especially aroma of rice was so tasty. Temperature of food, quantity and packing is awasome......",5.0,2019-04-08 02:27:00,0,22,263,4,2019,0,0,229,4
 Shah Ghouse Hotel & Restaurant,Sanjay,"This is bloody disgusting. I had to wait for more than 120 mins for my order. And after that got a call for cancellation of the order. If you can't sever the order let the customer know about it, don't made him wait for a long time. 120 mins of Sunday is precious for me. To hell with your service...",1.0,2019-04-07 15:14:00,0,1,,4,2019,1,1,300,6
 Shah Ghouse Hotel & Restaurant,Somrhita Kundu,"I visited this place with my brother after reading some great reviews and ratings on Zomato. Though the restaurant claims to be authentic original Hyderabadi taste the Gachibowli branch was open in 2015. Given that the ambiance and maintenance is pathetic. It looks and feel extremely unhygienic to the point that we had second thoughts eating there. Staff was extremely disorganized and there were many customers seen complaining.
@@ -830,7 +830,7 @@ Shah Ghouse Hotel & Restaurant,Rahul Kumar,"Offers one of the Best Biryani's in 
 Shah Ghouse Hotel & Restaurant,Bhawana Bahuguna,"I had heard a lot about this place so I went there. The dining area was pretty jammed and there seemed a lot of dirt lying around like used napkins, food etc. I anyway passed it for the fact that the place is all time busy. But then I saw a RAT nibbling on the scattered food. I reported this to the manager and he told me it's okay and 'ek do Galti toh ho jati hai' and they literally forced me to pay for my order which I did not even touch. The staff was highly rude and it has been one of the worst experiences in Hyderabad.",1.0,2019-03-17 16:05:00,0,1,,3,2019,1,0,528,6
 Shah Ghouse Hotel & Restaurant,Shiva Kumar Chary,"Original Hyderabadi and ghee flavoured mutton Biryani is my fav item from this restaurant and I am totally addicted to this dish😍😍😍
 
-Best quality too, not ₹300 I am ready to spend ₹600 for a dish like this.",5.0,2019-03-16 23:14:00,0,5,24,3,2019,1,1,208,1
+Best quality too, not rupees300 I am ready to spend rupees600 for a dish like this.",5.0,2019-03-16 23:14:00,0,5,24,3,2019,1,1,218,1
 Shah Ghouse Hotel & Restaurant,Manojkumar D Nambisan,"Food is decent and tastes palatable, not the best, though not very comfortable with the hygiene. Ambience is average, service is poor. Good value for money if one can ignore the ambience and service.",3.0,2019-03-16 12:09:00,0,29,11,3,2019,1,0,199,3
 Shah Ghouse Hotel & Restaurant,Prasun Gokhlani,Can't ever say no to this place how much ever crowded it gets or the time one has to wait to get a seat here. Biryani is simply amazing definitely among the best in Hyderabad,5.0,2019-03-16 12:05:00,0,25,5,3,2019,1,0,174,2
 Shah Ghouse Hotel & Restaurant,Satyajit Behera,"The hotel never updates the status of the order. I called Zomato support after 20 mins of placing the order, then the Zomato support team calls the hotel to accept the order and then they update the order. Next them mention it will be delivered by 1:11pm but again no update. I called again at 1:15pm to check what happened to the order. They again called the hotel to get an update. Then they mention your food is still getting prepared, its in the kitchen. What the hell the order that should have delivered way back its still in kitchen and you guys don't mind to update or apologize. I asked to cancel the order and Zomato said it can't cancel as it will be waste of food. Great and I am stuck with the hotel's will to deliver it or not. Pathetic service.",1.0,2019-03-15 13:33:00,0,1,,3,2019,0,1,759,10
@@ -1143,7 +1143,7 @@ The Fisherman's Wharf,Mythreya Kommajoysula,"One of the best places to chill in 
 The Fisherman's Wharf,Moge Basar,"Good for a nice Sunday brunch. The buffet for two is 1500 INR, and worth the deal, I'd say. The ambience is also great and you do get a lot of seating options. Would recommend.",5.0,2019-05-08 23:17:00,0,7,5,5,2019,0,1,176,4
 The Fisherman's Wharf,CA Sai Sita Bommakanti,"This place makes you feel like you are at the shore of a beautiful beach in goa, sipping on your favourite drink and just taking the whole feeling. Designed to make you feel like your on vacation, it ticks all the right boxes for a foodie like me. Different sections of the restaurants are named after various places in goa,making it a perfect place to feel like you are on a vacation. We had the potato rechado which was spicy and very flavourful.Mushroom tonak and Mix veg foogath with vegetable pulao was our main course which we enjoyed as well. It is the place if u want to try goan cuisine.",5.0,2019-05-08 18:20:00,5,8,18,5,2019,0,0,596,5
 The Fisherman's Wharf,Ravi Varma,"Perfect place for corporate dine outs. Had a great time with my team dinner. Wide variety of Goan dishes and other food as well as ""beverages"". A bit expensive but OK. The private space was good at 'Margarita lounge'",5.0,2019-05-08 03:28:00,0,13,7,5,2019,0,0,216,5
-The Fisherman's Wharf,Abhishek Kolpuru,Overpriced! Coming to the weekends they doesn't make the food tasty! Fish was not good there is no flavor at all I the food . And 3* only for the ambience,3.0,2019-05-07 12:25:00,2,24,21,5,2019,0,0,154,4
+The Fisherman's Wharf,Abhishek Kolpuru,Overpriced! Coming to the weekends they doesn't make the food tasty! Fish was not good there is no flavor at all I the food . And 3⭐ only for the ambience,3.0,2019-05-07 12:25:00,2,24,21,5,2019,0,0,154,4
 The Fisherman's Wharf,Anjali Lal,The best place in Hyderabad. Ambience is par class. Food is nice and service is always nice. I love the live music too. I love love love it. Crowd is managed well.,5.0,2019-05-05 13:19:00,0,4,1,5,2019,1,1,163,6
 The Fisherman's Wharf,Harshet Agarwal,"Little Goa is what this place is.
 the feel itself took me to goa in a jiffy
@@ -2028,7 +2028,7 @@ drink of cocktail but it has its own dressing of pirate look inside the glass th
 
 +GOLDEN TRUMPET BEER COCKTAIL :the beer is poured into a truck shaped container which is very appealing to see and tastes spicer along with a zest of herbs
 
-********
+⭐⭐⭐⭐⭐⭐⭐⭐
 Coming towards the food HYPER LOCALs most popular dishes
 •vegetarian
 ÷chole bhature : one of the most popular dishes in Delhi region it's a must dish to opt for ,the bhature here are thick and fluffy with is perfect for dipping in the chole along with aloo in its side is very satisfying dish one should have here
@@ -2166,7 +2166,7 @@ During all this while the place is so loud and there is no place in the pub to e
 Be aware people. Avoid this place.",1.0,2019-04-06 12:16:00,0,6,59,4,2019,1,0,1513,13
 Hyper Local,Sanika Samant,"The drunch trend has picked up in Hyderabad and Hyperlocal has joined in too.
 The ambience is good although the place is pretty small and a bit cramped up. The utilisation of the limited space is done well. A good place to chill with your drinks and watch the sun set.
-Moving on to the food: we tried the newly launched Drudge menu. Priced at Rs.1200, this was an expensive affair. However if you are early I.e before 4:30 pm then you can avail the same drunch for ₹ 799.
+Moving on to the food: we tried the newly launched Drudge menu. Priced at Rs.1200, this was an expensive affair. However if you are early I.e before 4:30 pm then you can avail the same drunch for rupees 799.
 They had a theme which Revolved around Delhi Street food.
 The drinks menu was lovely and so were the drinks. We tried a couple of them and the mocktail of the day was the kiwi mint cooler.
 
@@ -2183,7 +2183,7 @@ Overall the management needs to put a lot of thought in the menu planning as it 
 The music was extremely loud for the place.
 Overall we had a below average Experience.
 
-Based on the drunch menu I would rate it 2.5/5",3.0,2019-04-06 00:44:00,10,250,1454,4,2019,1,0,1676,24
+Based on the drunch menu I would rate it 2.5/5",3.0,2019-04-06 00:44:00,10,250,1454,4,2019,1,0,1681,24
 Hyper Local,Roy Burmon,"Been here with office colleagues, overall a good place to hangout with a gang. But the sitting arrangements during day time is very tight as people would want to dine inside rather than out in the hot sun.
 
 The food was excellent in taste, The chicken dum biriyani had a very different taste and I loved it.",4.0,2019-04-03 14:38:00,0,17,25,4,2019,0,1,309,3
@@ -2458,7 +2458,7 @@ Cream Stone,Govinda Rajulu,super delevery,5.0,2018-10-10 21:57:00,0,5,1,10,2018,
 Cream Stone,Natraj Katakam,delivery behaviour good,5.0,2018-10-10 14:33:00,0,1,1,10,2018,0,1,23,1
 Cream Stone,Kiran,"I have ordered several times from cream stone.
 One of the finest place for ice creams. Quality and taste of ice creams are top notch. You will fall in love with this ice creams",5.0,2018-10-09 21:10:00,0,8,3,10,2018,0,1,177,4
-Cream Stone,Saicharan Chowdary Tulluri,Please look at the below image. This is how I got my order when I order from zomato. I had a confusion to eat it or gulp it. However I gave 2 * for the browny,2.0,2018-10-08 01:07:00,1,9,11,10,2018,0,0,158,4
+Cream Stone,Saicharan Chowdary Tulluri,Please look at the below image. This is how I got my order when I order from zomato. I had a confusion to eat it or gulp it. However I gave 2 ⭐ for the browny,2.0,2018-10-08 01:07:00,1,9,11,10,2018,0,0,158,4
 Cream Stone,Bhargavi Chintala,not ggod,1.0,2018-10-08 00:28:00,0,3,1,10,2018,0,0,8,1
 Cream Stone,Yugandhar,"They didn't packed the ice cream nicely ie.. didn't keep any dry ice, because of that it got melted and spreads in the pckage. A bit disappointed other than that taste is good.",3.0,2018-10-08 00:12:00,0,2,,10,2018,0,0,176,2
 Cream Stone,Krishna,ice cream was melted before it reached me and I didn't see dry ice pieces in it either service was too bad,1.0,2018-10-08 00:00:00,0,2,1,10,2018,0,0,106,1
@@ -2654,7 +2654,7 @@ Sardarji's Chaats & More,Amit,very impressive delivery. Amazing work,5.0,2018-09
 Sardarji's Chaats & More,Shanti Priya Gogoi,Chole was too oily..,3.0,2018-09-20 22:39:00,0,4,5,9,2018,0,1,20,1
 Sardarji's Chaats & More,Rishabh Wahi,"Great place to have good chat. Very well made dahi papdi and aalu tikki, especially because their dahi tastes very fresh and feels like home made. Only order one full paratha for yourself if you're extremely hungry, though the filling is great but it is very heavy.",4.0,2018-09-17 15:51:00,0,94,278,9,2018,0,1,265,3
 Sardarji's Chaats & More,Varun Reddy,"Heard a lot about this small food joint and the north indian stuff they make. Should say I’m disappointed, looks like the quality is not the same as before, even the price is a bit high compared to other places with similar taste.",2.0,2018-09-16 21:07:00,0,125,4642,9,2018,1,1,230,2
-Sardarji's Chaats & More,Diki Lama,Got the chole bhature for ₹ 66 only through FAV50. Was craving for some good old punjabi flavour and this was perfect.,5.0,2018-09-16 20:06:00,0,18,36,9,2018,1,1,118,2
+Sardarji's Chaats & More,Diki Lama,Got the chole bhature for rupees 66 only through FAV50. Was craving for some good old punjabi flavour and this was perfect.,5.0,2018-09-16 20:06:00,0,18,36,9,2018,1,1,123,2
 Sardarji's Chaats & More,Debajyoti Dash,have only one packet of curry instead of 2,3.0,2018-09-16 14:38:00,0,6,3,9,2018,1,1,42,1
 Sardarji's Chaats & More,Aditi Saxena,great good!!,5.0,2018-09-14 21:03:00,0,3,33,9,2018,0,1,12,2
 Sardarji's Chaats & More,Charu Gupta,They have reduced the quantity a lot!!!!!,2.0,2018-09-14 16:33:00,0,4,1,9,2018,0,0,41,2
@@ -3071,7 +3071,7 @@ Amazing food, tasty finger food I recommend Cheese stuffed mushroom & Fish n Chi
 When coming to Sizzlers, Fish shashlik sizzler is the best.
 Must try caramel custard and Sizzling brownie dessert.
 
-* highly recommended Best sizzlers restaurant
+⭐ highly recommended Best sizzlers restaurant
 We will visit again",5.0,2019-04-09 10:57:00,0,34,7628,4,2019,0,0,345,4
 Absolute Sizzlers,Parijat Ray,"We had a very bad experience here. We have ordered Fish Shashilk and Sizzling Chicken sizzlers. The Fish Shashilk sizzler didn't have fish in it. Upon asking the waiter, he started searching the fish in my sizzler and was trying to make sure that I had already not eaten it. He then brought a grilled fish fillet and said that the sizzler can't be remade because the kitchen was quite busy. Upon arguing, another person came and changed my sizzler. I had visited this restaurant with lots of expectations as sizzlers are one of my favorites. Mistakes can happen anytime anywhere. It's an urge from side that please behave properly with the customers.
 
@@ -3745,7 +3745,7 @@ KFC,Tathagat Verma,"Decent ambience and setup. Lots of space, which is kind of e
 Fast service, but inefficient. On multiple occasions they gave the wrong order.",3.0,2019-04-20 21:33:00,0,196,615,4,2019,1,1,170,4
 KFC,GauTam SwaRoop,"I had bad experiences at this place multiple times. The management has no sense of customer experience. The people working there dont even respond to customers properly. While ordering, they don't check the inventory. We had to wait for 30 min for order to be served and even after that, there were some items missing. When asked how long it would take, they just responded vaguely. Iam not planning on visiting this place ever again.",1.0,2019-04-18 23:12:00,0,3,6,4,2019,0,1,434,7
 KFC,Towheed Moneeb,"It was team outing party. Ambiance was great
-The food was good and the service was too slow. The main thing staff was very polite and smile face. Over all rating 2.9*....😃😃😃😃😃😃😃😃😃😄",3.0,2019-04-11 15:24:00,4,11,14,4,2019,0,1,181,4
+The food was good and the service was too slow. The main thing staff was very polite and smile face. Over all rating 2.9⭐....😃😃😃😃😃😃😃😃😃😄",3.0,2019-04-11 15:24:00,4,11,14,4,2019,0,1,181,4
 KFC,Yoga,I have ordered from here using the Zomato app. The ordering was simple. They responded very fast and I had the food delivered within 30 minutes of the order. This was a happy experience. The burgers were very good and the chicken legs still warm and succulent. The rice with small chicken nuggets was also excellent though the quantity seems to be a little less.,4.0,2019-04-07 16:18:00,0,62,1193,4,2019,1,0,362,6
 KFC,Jalaj Arora,Service is very slow. Took more than 15 minutes to prepare the order and still the food was cold. KFC quality has also gone down. Chicken was just okayish. Even AC is not working at the restaurant in peak summer time.,2.0,2019-03-31 21:43:00,0,1,64,3,2019,1,1,217,5
 KFC,Gsvvenna99,"I have ordered zinger box meal, the chicken inside is raw for the piece and the burger. I Don't recommend that this KFC is hygiene in cooking.",1.0,2019-03-27 11:04:00,0,2,1,3,2019,0,0,142,2
@@ -3893,7 +3893,7 @@ Great for deliveries, order it at home or at work ☺️
 When looking for a yummmm North Indian food reach out to norfest!",4.0,2019-04-15 09:14:00,0,14,143,4,2019,0,0,411,8
 NorFest - The Dhaba,Jay Mehta,"review no 2. With delivery
 
-Ordered again, mix veg this time , looked ok but tasted far better, was dry for a curry but serving of veggies was plenty. Just for dryness reducing 1* . I absolutely love this place , hope for better experience nect time
+Ordered again, mix veg this time , looked ok but tasted far better, was dry for a curry but serving of veggies was plenty. Just for dryness reducing 1⭐ . I absolutely love this place , hope for better experience nect time
 
 Review 1
 Second time for this place but first time got it delivered! Had ordered paneer butter masala and mix veg..great quantity and quality...this place is amazing for north indian foood. I am glad zomato is now bringing it to vihanga area. Will be frequently ordering from here. Nothing to complain about best north indian food to order",4.0,2019-03-31 19:38:00,1,46,43,3,2019,1,0,595,8
@@ -3920,7 +3920,7 @@ NorFest - The Dhaba,Parijat Ray,A must try place for north indian food lovers. T
 NorFest - The Dhaba,Riha Dhawan,"Finally someone can make food which I could call North Indian. Amazing place to have a typical north Indian types brunch or dinner. Only con I would prefer if they did had a proper place too.
 
 Definitely visiting again.",4.0,2019-01-23 14:53:00,0,122,857,1,2019,0,1,221,4
-NorFest - The Dhaba,Lokesh Gupta,"*Fake Rating* !!Beware!!
+NorFest - The Dhaba,Lokesh Gupta,"⭐Fake Rating⭐ !!Beware!!
 
 
 We ordered galouti kabab and dhaba chicken... both were pathetic and nowhere close to the name of the dish.. orange galouti kabab with yellow paratha...dhaba chicken’s gravy tasted like toor daal",1.0,2019-01-21 16:01:00,0,4,,1,2019,0,0,225,3
@@ -3943,11 +3943,11 @@ NorFest - The Dhaba,Punit Kanuga,"Ordered mix veg and tandoori rotis. Curry was 
 NorFest - The Dhaba,Atul Kumar Kushwaha,Good taste and best place with special thalis. Complete punjabi taste with chaachh. One of the good punjabi taste in hyderabad. A must go at least once.,4.0,2018-12-10 17:32:00,0,20,54,12,2018,0,0,152,4
 NorFest - The Dhaba,Luck@chance,"I am shocked and I ever had in my life food taste like this in th any common food court of India it was my 2nd visit in 2 days, M impressed by veg Galaouti kabab what a flavour , smoothness, textures, binding, combination of paratha , now I am a big fan of Norfest.. it's simply located in food court no necessary and unessary interior, simple and fresh, love the food.
 
-We order something like jaljeera green ... 5*
-Lassi salted 5*
-Veg Galaouti 5* 6* 10* 100* I just love this
-Non veg Galaouti 5*
-Kheer 4* feel little thin...
+We order something like jaljeera green ... 5⭐
+Lassi salted 5⭐
+Veg Galaouti 5⭐ 6⭐ 10⭐ 100⭐ I just love this
+Non veg Galaouti 5⭐
+Kheer 4⭐ feel little thin...
 Love the food keep it guys I wish you good luck.
 
 Highly recommended for North food lover
@@ -3977,9 +3977,9 @@ Norfest is now operational in PVR Galleria, Punjagutta hence becomes more closer
 
 Their Paratha combos are also a strong recommendation.
 
-#₹470 #Norfest
+#rupees470 #Norfest
 
-facebook.com",4.0,2018-11-13 10:16:00,2,293,1496,11,2018,0,0,745,9
+facebook.com",4.0,2018-11-13 10:16:00,2,293,1496,11,2018,0,0,750,9
 NorFest - The Dhaba,Anuja Vengurlekar,"best butter chicken. Very nice service and staff is really friendly.
 Will definitely visit again.
 Highly recommended for the people who are looking for north Indian food",5.0,2018-11-10 12:58:00,0,1,11,11,2018,1,0,171,4
@@ -4100,7 +4100,7 @@ So, we ended up in this restaurant!! It is located at the food court and has ope
 .
 .
 🔴We ordered the Punjabi Special VegThali:
-₹269/-
+rupees269/-
 It was the most delicious Thali I ever had in life, just divine and out of the world ❤️❤️
 It comprises of the following:
 ▪️Kadai Paneer (4.5/5)
@@ -4138,7 +4138,7 @@ Surely try this outlet and you will thank me later ❤️❤️
 ▪️Ambience 🏢- 3⭐️
 ▪️Service 👥- 4⭐️
 ▪️Value for money 💰- 5⭐️
-▪️Overall Rating- ⭐️⭐️⭐️⭐️",4.0,2018-07-24 10:52:00,3,75,582,7,2018,0,0,3294,36
+▪️Overall Rating- ⭐️⭐️⭐️⭐️",4.0,2018-07-24 10:52:00,3,75,582,7,2018,0,0,3299,36
 NorFest - The Dhaba,Shreyoshi Mandal,"Okay to begin with, a 4.3 rated place in food court sounded quite fishy to me. So I was expecting a big bang surprise with their food. I had Amritsari Kulcha with Chole, Sweet Lassi and Shikanji.
 First, coming to the people who spoke about ""Authentic Punjabi"" food in reviews, guys you are either out of your mind or really need to hit Punjab and eat there!
 Shikanji was plain flavoured water that tasted medicinal, Lassi was the worst one I have had lately. The Amritsari Kulcha and Chole was tasteless. The dollop of ""Butter"" didnt taste as it was meant to.
@@ -4472,7 +4472,7 @@ The DJ is amazing and I always had great time shaking my leg on the floor. So it
 10 Downing Street,Jaya Prakash,Great ambience and decent brew beer. But there is something very elegant in terms of ambience. But food is on little disappointing. We order chicken starter and French Fry's both where disappointing. In terms of chicken starter I felt high ajino Moto,3.0,2019-03-31 22:51:00,11,39,209,3,2019,1,1,250,5
 10 Downing Street,Kiran,The place is decent and not heavily crowded. The ambience and staff courteousness is good. But the food has a bit of room for improvement in terms of taste. The mocktails and onion rings were good. However the dumplings are very poor in taste that we had to send them back.,4.0,2019-03-30 17:56:00,0,27,15,3,2019,1,0,273,5
 10 Downing Street,Arun Kalyan,"Had been there for friend's birthday party,it was on Saturday,such an amazing place we have ordered mocktails,veg and non veg starters some alcohol,tasty food fine ambeince but very far from my place,dance floor was so good,go with your frnds and have fun.",4.0,2019-03-24 13:07:00,0,5,4,3,2019,1,1,256,1
-10 Downing Street,Avinash Kavde,"Highly recommended place for all the party lovers. I have been to few roof top lounge bars but this is the best. 10th Floor , city view, cool breeze and a drink....what else can one ask for . 5*ratings for the food and the prompt service.",5.0,2019-03-17 13:53:00,0,5,29,3,2019,1,1,238,4
+10 Downing Street,Avinash Kavde,"Highly recommended place for all the party lovers. I have been to few roof top lounge bars but this is the best. 10th Floor , city view, cool breeze and a drink....what else can one ask for . 5⭐ratings for the food and the prompt service.",5.0,2019-03-17 13:53:00,0,5,29,3,2019,1,1,238,4
 10 Downing Street,Manojkumar D Nambisan,"Food is average, service is poor. Can get crowded. The ambience, especially interior and its seating could have been better. Though finger food is good, not much options for main course",3.0,2019-03-16 12:19:00,0,29,11,3,2019,1,0,185,4
 10 Downing Street,Harshet Agarwal,"Been here through the years
 It’s been so homely and great
@@ -4708,7 +4708,7 @@ Value for money:3.5/5",4.0,2018-11-02 21:42:00,0,74,1738,11,2018,0,1,1048,12
 10 Downing Street,Nomula Sai Kiran,"I dont know what kind of pub is this.. U people dont allow stag on weekends and u people allow on weekdays... Bill tho stag hi pay kartha reey bhai.. Yehi city meey highlife, lal steet, repete, clubN, playboy, prost, koi bhi tum logoke jaisa behave nahi Kartheey better come out from that illusion",1.0,2018-10-25 23:06:00,0,2,1,10,2018,0,1,297,1
 10 Downing Street,Tanjiba Afrin,"Well I have lost count how many times I have visited this place.Not only this one the Punjagutta branch as well and the place has never disappointed me.Went with few of my friends after office,the ambiance,music and food is too lovely and bang on-always.Crowd too is good.Simply love this place.",4.0,2018-10-24 00:35:00,0,8,9,10,2018,0,0,295,1
 10 Downing Street,Abhimanyu,"I have been to quite a few similar places in Hyderabad and after a lot of hype about this place, finally on the Monday night we visited this place for a team dinner and needless to say that it was a really enthralling experience.
-Starting from the reception area *( especially that guy with a moustache... You made the night with your behavior).
+Starting from the reception area ⭐( especially that guy with a moustache... You made the night with your behavior).
 After entering the lounge, it kinda of creates a pleasant view with all the interior decorations.
 The service was good starting from the starters to the drinks and main course and finally the desserts.
 But at the end of the night it was the DJ guy who outperformed everyone. You will be the one who will make me to come to this place again and again. Being from North India, finally got the chance to dance to those Punjabi songs listening to which I have grown. Danced with the heart in my palm. Needless to say that the DJ guy was the icing on the cake with his song selections.
@@ -4743,7 +4743,7 @@ Pakwaan Grand,Raana Prathap,"Average food for cheap cost,better we can go for on
 Pakwaan Grand,Lovely Priyanka,"Service is too bad and ambience is not bad.food is not taste....waste for atleast 1visit
 We hav ordered chicken and prawns and veg items..
 Chicken is better out that 2/5 byt remaining are worst",1.0,2019-05-01 12:41:00,0,5,4,5,2019,0,0,195,1
-Pakwaan Grand,Towheed Moneeb,Food was good and the service was too slow we wait for 25 minutes but no one come on out table for the order oftet when we talk with manager he was also with full of attitude. Over all rating 2*,2.0,2019-04-23 21:25:00,6,11,14,4,2019,0,1,194,2
+Pakwaan Grand,Towheed Moneeb,Food was good and the service was too slow we wait for 25 minutes but no one come on out table for the order oftet when we talk with manager he was also with full of attitude. Over all rating 2⭐,2.0,2019-04-23 21:25:00,6,11,14,4,2019,0,1,194,2
 Pakwaan Grand,Komala Krn,"I won't say not to try non veg in this restaurant it was good but palak dishes are awesome.
 Must try palak paneer and paneer kaju biryani ❤️",4.0,2019-04-21 10:00:00,0,7,18,4,2019,1,0,141,2
 Pakwaan Grand,Moumita Das,"They are good! But they are like those moody people, sometimes bad! I had both the experiences. I liked their biryanis mostly! Try their mutton biryani. I mostly use them for home delivery. They are good and pocket friendly!",4.0,2019-04-08 01:06:00,0,56,320,4,2019,0,0,224,7
@@ -4944,7 +4944,7 @@ Food 5/5",5.0,2019-02-04 00:08:00,1,7,12,2,2019,0,0,239,3
 13 Dhaba,ANWAR SHAH KHAN,"Best north Indian food in Hyderabad, aloo and panner kulcha is good lassi was good Rajma rice.
 Sarso ka saag makki ki roti is good
 10% discount for bullet user",5.0,2019-02-02 14:51:00,0,1,,2,2019,1,1,161,2
-13 Dhaba,Vijay Singh,"Do you guys understand the meaning of half and full quantity while you deliver food? How it affects the situation during lunch when the food delivered is incomplete and cannot be eaten by two, this 1* is to ruin my personal experience with you guys. As even the zomato CS was pathetic to resolve it",1.0,2019-02-02 14:01:00,0,1,1,2,2019,1,1,298,3
+13 Dhaba,Vijay Singh,"Do you guys understand the meaning of half and full quantity while you deliver food? How it affects the situation during lunch when the food delivered is incomplete and cannot be eaten by two, this 1⭐ is to ruin my personal experience with you guys. As even the zomato CS was pathetic to resolve it",1.0,2019-02-02 14:01:00,0,1,1,2,2019,1,1,298,3
 13 Dhaba,Andy,I ordered butter rotis but got plain rotis and tasted vary dry! 😐😐,4.0,2019-01-31 13:35:00,0,1,1,1,2019,0,1,66,2
 13 Dhaba,Arpit Bhatia,I havent got my order yet!!!,1.0,2019-01-30 22:54:00,0,3,,1,2019,0,1,28,2
 13 Dhaba,Ram Prasad,Very bad packing of the food. It all got mixed with each other. Couldn't have the meal which I ordered. Pls make sure to pack properly when sending it for the delivery.,1.0,2019-01-27 10:05:00,0,1,,1,2019,1,0,168,4
@@ -4992,7 +4992,7 @@ Must try items here are alu kucha ,chole bahturae ,alu onion paratha and sweet l
 This place does not have a lot of tabels a very small outlet and self service no waiters here who,this place purely focuses on food and i think they serve the best kulchas and parathas in hyderabad.
 
 Giving 5 start only for food,do no expect any kind of ambiance , visit this place only if you eat punjabi food.",5.0,2018-10-19 11:35:00,1,10,57,10,2018,0,0,564,4
-13 Dhaba,VJvarun,"Taste * Quality * Quality * value for money
+13 Dhaba,VJvarun,"Taste ⭐ Quality ⭐ Quality ⭐ value for money
 For these 4 benchmark its an Good place whenever i visited this place never get disappoint.
 Must try : dalmakhni, panner kulcha, chole bhature
 
@@ -5111,7 +5111,7 @@ There was a lot of crowd and it took us a long time to get our orders. Overall i
 Jonathan's Kitchen - Holiday Inn Express & Suites,Prateek Shankar,"I think there is no point of taking a buffet here. I took a buffet for the purpose of having mutton curry; but it was spoilt. Hence, there was no benefit from paying 2000 for 2 people.
 
 I took this plate like this. I left this plate like this.",1.0,2019-04-27 23:02:00,1,9,8,4,2019,1,1,245,5
-Jonathan's Kitchen - Holiday Inn Express & Suites,Surya Tej Kanuri,"*over rated? I feel it is. Desserts are good*
+Jonathan's Kitchen - Holiday Inn Express & Suites,Surya Tej Kanuri,"⭐over rated? I feel it is. Desserts are good⭐
 
 Food -3/7
 Ambiance -3/7
@@ -5449,10 +5449,10 @@ Jonathan's Kitchen - Holiday Inn Express & Suites,ARYAN JHA,"Ambience: 5/5 (Both
 Value for Money: 3.5/5 (This is with respect to Sunday Brunch# costing Rs. 1200/- per person)
 Staff Service: 5/5
 
-Quality of Food: 5/5 Simply premium.Items I like the most are veg. maki (sushi), broccoli salad* from their regular menu.But even more outstanding are their live counter options such as Tawa Fish (Not your regular bland bone-less fish, but the way you eat fish at home) had some real flavour. Omelette, French toast, Pancakes were simply brilliant.
+Quality of Food: 5/5 Simply premium.Items I like the most are veg. maki (sushi), broccoli salad⭐ from their regular menu.But even more outstanding are their live counter options such as Tawa Fish (Not your regular bland bone-less fish, but the way you eat fish at home) had some real flavour. Omelette, French toast, Pancakes were simply brilliant.
 Variety of Food: 5/5 Enormous.This is where Jonathan's Kitchen truly excels, there has to be at least one item you will madly fall in love with. They claim to have over 60 items on their menu, which can be verified rather immediately upon looking at the serving table.
 #In the name of unlimited drinks, there was no real variety to choose from. I couldn't even get my favourite soft drink Thums up (Franchise issue probably, I know), and on that particular day, there wasn't any option of Pina Colada.
-*I am a big fan of lettuce leafs. Please keep some.",4.0,2019-03-02 00:13:00,0,3,3,3,2019,1,0,1074,10
+⭐I am a big fan of lettuce leafs. Please keep some.",4.0,2019-03-02 00:13:00,0,3,3,3,2019,1,0,1074,10
 Jonathan's Kitchen - Holiday Inn Express & Suites,Rajjit Das,"I went there for lunch on a Sunday afternoon. Four of us were there for lunch, out of four two of us opted for the sunday brunch and the other two went for à la carte. I was among the two who went for à la carte. For the sunday brunch there was a live performance by a band. The ambience was buzzing as the restaurant was quite crowded, they offer open air seating as well. The starters of the the brunch are placed in the open air section and the other courses are placed indoor. Personally, I felt the seating isn't much comfortable as the chairs' backrest lacked comfort. The air conditioning was not great as the temperature inside wasn't as comfortable as I expected it to be. However, the service by the staff is impeccable they help in every way they can.
 Coming to the food, I had ordered Mutton Sukha, Rib eye steak and grilled tiger prawns. My companions went for the sunday brunch, as they told me the non-vegetarian starters were all wonderful except for the fish tawa fry which was not boneless. All the starters were very well balanced in flavour, the chicken kalmi kabab was exquisite. Compared to the starters, the main course was not so great the curries lacked texture and were not so great but the yellow dal was very soothing. Prawn cocktail was outstanding, the desserts were all very good and not extra sweet. Coming to the à la carte menu, the Mutton Sukha was great in every way, the spices were perfectly balanced they weren't overpowering the flavour of the meat, it's definitely a must try there. The rib eye steak didn't impress me much, the meat wasn't juicy as it is supposed to be and that was disappointing. On the other hand, the grilled tiger prawns were brilliant, they were served on a bed of sautéd spinach with garlic which was good too and prawns were boosting with flavour.
 Overall, it's a great place to visit which serves dishes from all the major cuisines around the world.",4.0,2019-03-01 20:11:00,2,17,399,3,2019,0,1,1918,18
@@ -5503,7 +5503,7 @@ so, it was a very cozy comfy yummy and lovely experience.
 
 the food was good, service was ok (surprisingly!!!), price is also okish
 (a bit pricey u can say)
-rating - 3 * coz the waiters/servers who were COMPLETELY free n unoccupied were continously busy huddling up in a corner n chatting with each other, i thought i would be getting that attention since i was the only customer there but sadly no. they were enjoying the free time rather than provide some excellent service.
+rating - 3 ⭐ coz the waiters/servers who were COMPLETELY free n unoccupied were continously busy huddling up in a corner n chatting with each other, i thought i would be getting that attention since i was the only customer there but sadly no. they were enjoying the free time rather than provide some excellent service.
 
 anyways, they also brought out an icecream cake at the end for the anniversary celebration, so that was nice.",4.0,2019-02-10 14:48:00,0,58,265,2,2019,1,1,870,7
 Jonathan's Kitchen - Holiday Inn Express & Suites,Vinay K,"Has got nice ambience and the food tastes good. They’ve got one of the best pesto pastas in the city. Also love the crispy chicken burger, it’s very tender inside and crispy outside, as said. Blueberry Cheese cake has not had enough “coolness”, hope to manage to get a better one next time. Very friendly people fo Jonathan’s..",4.0,2019-02-09 20:05:00,0,2,1,2,2019,1,1,327,5
@@ -5906,7 +5906,7 @@ Amul,Anam Zaman,good service,5.0,2018-07-30 03:54:00,0,0,,7,2018,0,0,12,1
 Amul,Sahithi Sahi330,good,5.0,2018-07-29 23:27:00,0,0,2,7,2018,1,1,4,1
 Amul,Varun Gupta,straw is not good,5.0,2018-07-29 18:52:00,0,3,1,7,2018,1,0,17,1
 Amul,Sankar.bharu,good,5.0,2018-07-29 18:21:00,0,2,1,7,2018,1,0,4,1
-Amul,Lakshmi Narayana,,5.0,2018-07-29 18:00:00,0,0,,7,2018,1,0,3,1
+Amul,Lakshmi Narayana,,5.0,2018-07-29 18:00:00,0,0,,7,2018,1,0,0,0
 Amul,Soumya Mohanty,okay,4.0,2018-07-29 17:01:00,0,1,2,7,2018,1,0,4,1
 Amul,Narsa,su,5.0,2018-07-29 15:41:00,0,9,1,7,2018,1,1,2,1
 Amul,Riwaj Ghimiray,Awesome!,5.0,2018-07-29 13:34:00,0,6,1,7,2018,1,1,8,1
@@ -6066,9 +6066,9 @@ Have used little coupon, which really helped our pocket. There are 2 sittingarea
 One by one we tried almost all the veg starters with cocktails.
 Everything was just perfect. Match drinks and snacks.I definitely recommend this place.
 So here are my ratings
-Food: 4*
-Ambience: 4*
-Pocket friendly: 3* google all deals/coupon options, and you will be mpre than happy.",4.0,2019-01-13 20:15:00,0,7,7,1,2019,1,1,520,7
+Food: 4⭐
+Ambience: 4⭐
+Pocket friendly: 3⭐ google all deals/coupon options, and you will be mpre than happy.",4.0,2019-01-13 20:15:00,0,7,7,1,2019,1,1,520,7
 SKYHY,Ravirams1979,"Went to skyhy with great expectations but pathetic service and very bad food quality.wasted almost 1hr for food to arrive ,and they served the wrong item.
 
 Very disappointed,will not prefer to return again",1.0,2019-01-04 20:52:00,0,1,1,1,2019,0,1,207,2
@@ -6586,12 +6586,12 @@ Service 👎",2.0,2019-04-18 13:06:00,0,6,53,4,2019,0,1,334,4
 Mustang Terrace Lounge,Ashima Saxena,"On my visit at a pleasant evening to the restaurant I ordered Cosmopolitan drink. While my friends beer came right away, they took almost an hour to get my drink. After that day, I got some infection in my throat which I ignored for few days and it got worse. The doctor at Apollo told me that it’s a severe bacterial infection and I had to take antibiotic injection twice along with other medication followed by various tests. Although everything about the restaurant was nice but not sure what went wrong with that drink in particular which ended me in a hospital!",1.0,2019-04-16 20:49:00,0,17,3,4,2019,0,1,566,5
 Mustang Terrace Lounge,Hitesh Dutt,"Well going Step by Step:
 
-Ambience is pretty good 4* for that.
-Location is accessible 3* for that.
-Service is okay too 3* for that.
-Food was okay, not something out of the blue. But yes it was reasonable so 3* for that too.
+Ambience is pretty good 4⭐ for that.
+Location is accessible 3⭐ for that.
+Service is okay too 3⭐ for that.
+Food was okay, not something out of the blue. But yes it was reasonable so 3⭐ for that too.
 
-Overall 1* for poor post order served service. I had asked for leman about 7 times before i reached out to manager for lemons.
+Overall 1⭐ for poor post order served service. I had asked for leman about 7 times before i reached out to manager for lemons.
 
 Same drill happened twice on same day while being on same table.
 
@@ -6699,7 +6699,7 @@ The outdoor seats are not as comfortable and there is no measure to tackle scena
 It is a decent place to just have food but expect nothing more",3.0,2019-02-13 11:19:00,0,10,43,2,2019,0,0,534,6
 Mustang Terrace Lounge,Pratipurna Panda,"Boy oh boy , the prepossessing set up of rooftop.. the ambience. The beautiful music.. the feeling.. yes, the feeling we got, in this place ..!!
 
-So we just planned out of the blue, to go to a place. Mustang was on the way and we stopped there. Since it was a weekday, we got the top most seating. **Yeah, they have 3 levels of seating. And even the music was not too loud.
+So we just planned out of the blue, to go to a place. Mustang was on the way and we stopped there. Since it was a weekday, we got the top most seating. ⭐⭐Yeah, they have 3 levels of seating. And even the music was not too loud.
 Addition to this, coincidentally it was an almost full moon. Everything was set for 'yeh raatein yeh mausam... No 'nadi ka keenara'😣, but there was 'chanchal hawa' 😬
 
 Too dramatic??- I know 🤣
@@ -6844,7 +6844,7 @@ food is good I really like this place for best dining place in hydrabad.everythi
 "3B's - Buddies, Bar & Barbecue",Akshay Jaladi,Worst maintenance(PFA) and pathetic service. They literally throw food in your plate. Everyone was so busy. They took 15min to print a bill 😂😂.,1.0,2019-05-13 13:17:00,0,1,6,5,2019,0,1,143,4
 "3B's - Buddies, Bar & Barbecue",Sribhargava Sai Chowdary,"Excellent restaurant and serving
 The taste Is very good and the celebration they make are memorable and I like the most recipes the packages are good",5.0,2019-05-12 23:10:00,0,1,1,5,2019,1,1,150,1
-"3B's - Buddies, Bar & Barbecue",Bala Krishna,"Not worth it at all. Paid 500₹ just to end up eating curd rice for the night .
+"3B's - Buddies, Bar & Barbecue",Bala Krishna,"Not worth it at all. Paid 500rupees just to end up eating curd rice for the night .
 
 Went here last night, got a table for 3.
 The service was extremely poor and slow .
@@ -6880,14 +6880,14 @@ But I had enough already
 Everyone around my table were complaining too..
 But no use ..
 Useless place
-Never again",2.0,2019-05-11 14:36:00,0,7,110,5,2019,1,1,1462,12
+Never again",2.0,2019-05-11 14:36:00,0,7,110,5,2019,1,1,1467,12
 "3B's - Buddies, Bar & Barbecue",Sunil Beura,"I went in team dinner there on 10th may .the worst part is they don’t have anything in main course except veg/non-veg biryani .
 Even for staters also they hv very less choice
 They don’t have grill on the table .
 Only the staff behaviour was polite
 Apart from this it’s not a standard restaurant at all .",2.0,2019-05-11 10:00:00,0,1,,5,2019,1,0,307,3
 "3B's - Buddies, Bar & Barbecue",Adithya Boyapati,"Friendly and responsive..well behaved. Govind has made ur meal very friendly..this kind of behavior is always encouraged. Nice ambience,nice food, nice starters, stone ice cream is too nice.",5.0,2019-05-10 15:44:00,0,10,11,5,2019,0,1,190,3
-"3B's - Buddies, Bar & Barbecue",Aravind Botla,Best buffet in price range.very tasty food and Govind is there to bring all starters and those are very tasty and main course also very good.********************************,5.0,2019-05-10 15:43:00,0,1,2,5,2019,0,1,173,2
+"3B's - Buddies, Bar & Barbecue",Aravind Botla,Best buffet in price range.very tasty food and Govind is there to bring all starters and those are very tasty and main course also very good.⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐,5.0,2019-05-10 15:43:00,0,1,2,5,2019,0,1,173,1
 "3B's - Buddies, Bar & Barbecue",Venkat Peddineni,Nice service from govind .Chicken tikka and chicken wings are really very nice. Pan ice-cream and Bagodu gulab jamin also very nice. Ambience was very nice and music also.,5.0,2019-05-09 17:19:00,0,3,4,5,2019,0,0,171,3
 "3B's - Buddies, Bar & Barbecue",Siva Reddy,Had a very super dining experience with my friend at 3bs gochibowli service by go India really very nice.Amazing starters and desearts really very nice.,5.0,2019-05-09 17:17:00,0,1,3,5,2019,0,0,152,1
 "3B's - Buddies, Bar & Barbecue",Anila Sai,"The service is great,food tastes delicious.Govind and Shivam are very polite.deserts are nyc,overall it's a good experience.it is nice place to have buffet....",5.0,2019-05-09 15:09:00,0,1,2,5,2019,0,1,159,1
@@ -7336,10 +7336,10 @@ Apart from this, rest of the food was good but service was lousy.",3.0,2019-05-2
 Pot Pourri,Sravani,Nice ambiance....different and delicious food...polite and friendly staff serving...jus loved the paneer starters 😍 recommend to visit this place,5.0,2019-05-22 13:56:00,1,10,10,5,2019,0,1,145,1
 Pot Pourri,Arunraj R,"Affordable good food. I would have given a 5 star if value for money was a factor in star rating. Waiters were polite , food was delicious. Good place to eat out regularly.",4.0,2019-05-21 23:12:00,0,10,64,5,2019,0,1,172,4
 Pot Pourri,Asha Tejaswini,I had the worst experience with the food and the service.Food is not great and the service took so long.The place is not totally air-conditioned and the staff is a bit rude to customers.,1.0,2019-05-17 20:36:00,0,14,10,5,2019,0,1,186,1
-Pot Pourri,Chandrasekhar Dasika,"*IF YOU ARE READING THIS, AND SITLL GOING TO THIS PLACE - EITHER YOU WORK THERE OR YOU ARE DU#B*
-*I STRONGLY DISCOURAGE FAMILIES WITH KIDS FROM VISITING THIS PLACE*
+Pot Pourri,Chandrasekhar Dasika,"⭐IF YOU ARE READING THIS, AND SITLL GOING TO THIS PLACE - EITHER YOU WORK THERE OR YOU ARE DU#B⭐
+⭐I STRONGLY DISCOURAGE FAMILIES WITH KIDS FROM VISITING THIS PLACE⭐
 
-*WRITING THIS REVIEW WITHIN 10 HOURS OF VISITING THIS PLACE*
+⭐WRITING THIS REVIEW WITHIN 10 HOURS OF VISITING THIS PLACE⭐
 
 Wish I could give a negative rating. This place is ridiculously lazy. No this review is not about food, cost or ambience. This is about people and their mindset.
 
@@ -7447,7 +7447,7 @@ There was some birthday party going on, because of which each dish took an hour 
 After all this hassle, they give  us complimentary gulab jamun from the buffet which was nowhere a compensation for the bad experience or for the price we paid. 
 
 I am just hoping this isnt the real telangana cuisine which it is famous for and I was just at the wrong place.",2.0,2019-04-03 17:03:00,0,5,69,4,2019,0,0,905,13
-Pot Pourri,Afreen Jahan,"*Writing this review as soon as I got out of the restaurant*
+Pot Pourri,Afreen Jahan,"⭐Writing this review as soon as I got out of the restaurant⭐
 From the beginning itself the restaurant caught my bad impression and bad experience. Left right after starters. I wouldn't even care to rate it one star. One of worst restaurants to dine-in. I think it'll be good experience for corporate lunches or dinners because the more the people the more the💰💰💰
 After reaching at 2 PM there was no receptionist. After the receptionist finally came they made us wait for more than 20 minutes to find and set up the table for just 2 people. It was very clear that the tables just needed plates to be arranged. That's it. A piece of advise to y'all: if you see any restaurant taking this long without any valid reason then please get outta there. Neither proper AC chambers nor proper cooling. It was HOT. Thanks POT POURRI for understanding and making our dining uncomfortable😒. After we sat they took extremely long time and then cared to ask if we're opting for veg or non-veg. By this time I was already wondering if they thought we're idiots and they can just make us wait and treat however they want, I just realised that it was true.
 After soup and buttermilk starters were served PAINFULLY SLOW. It took MORE THAN AN HOUR FOR THEM TO FINISH SERVING JUST 6 STARTERS. Were they kidding me?? They wasted my precious time and this isn't what a customer wants. If you can't give importance to our time then we better eat elsewhere. We had to school the waiters regarding their service, then we spoke to their leader(I guess) and he also gave the same old typical answer ""sorry. I'll just get that served for you"". We don't want no sorry. You can't placate us with sorry for our time, hard work and money spent. After seeing no improvement we finally had to speak to the manager as listen to ""sorrys"". I decided to leave the restaurant. After all this HE HAD THE AUDACITY TO CHARGE US THE COMPLETE BILL. It was 1100. It wasn't even worth it even if we had the whole menu. After arguing he decided to give 10% discount which in his case made a hole in his pocket as as if it would make it up for the experience we had😒. Wouldn't suggest nor would even like to think about this restaurant.
@@ -7531,9 +7531,9 @@ Ambience 3.5/5
 Staff 3/5",3.0,2019-02-25 07:17:00,0,19,22,2,2019,0,0,480,6
 Pot Pourri,Chaitanya Reddy,"Paya is available but didn't meet my expectations ,
 Ambience was good, staff were friendly , food was okay and gold privileges were there so it was an 2.5/5#",3.0,2019-02-24 15:56:00,0,5,2,2,2019,1,1,158,1
-Pot Pourri,Prathy,"Ambience 4*
-Food 4*
-Staff 4*
+Pot Pourri,Prathy,"Ambience 4⭐
+Food 4⭐
+Staff 4⭐
 
 Service is a bit slow, but the best part is they make sure you are attended for and take down the order as you asked for.
 I went here for dinner today to celebrate my parents anniversary. My mother is never satisfied easily when it comes to food and picky, she said she liked the food. That was a huge shocker to me.
@@ -7542,7 +7542,7 @@ We ordered Kheema pulav(to cover the taste buds of spice), Andhra Chicken Tikka,
 
 Loved the glasses they use to serve water
 
-My over all rating 4*",4.0,2019-02-18 23:42:00,0,3,3,2,2019,0,1,629,6
+My over all rating 4⭐",4.0,2019-02-18 23:42:00,0,3,3,2,2019,0,1,629,6
 Pot Pourri,Ankur Sachdeva,"Slow Service. Food's not upto the mark. This restaurant seems in love with sugar, they put it veggies and soup in bulk. Service staff was not courteous.",2.0,2019-02-17 23:27:00,0,6,57,2,2019,1,1,152,4
 Pot Pourri,Lovely Sharma,"We went to Pot Pourri . As usual like a very good restaurant , ambiance is really good. Although I am not very big fan of South Indian food. But hatts off to your chef food is really good.
 We shall come back again.",4.0,2019-02-17 11:06:00,0,52,527,2,2019,1,0,215,5
@@ -8070,7 +8070,7 @@ Food is cold tastless, serving is slow and tardy. Most of the items in buffet we
 And to top it,there werent many items served in the buffet",1.0,2019-04-05 15:00:00,0,1,1,4,2019,0,1,359,4
 Marsala Food Company,Sudhir Raju,Starters were served cold...all they did was reheat..spoons were dusty and not clean..we had buffet and some of the items were missing overall food taste rating 1/5 ..ambience 3/5,1.0,2019-04-05 14:16:00,0,2,9,4,2019,0,1,179,1
 Marsala Food Company,Santhosh Reddy V,"Buffet is a disaster. No fresh food, all the deserts are from previous day. Service is pathetic and no friendly environment. Menu listed about 8 deserts but there are only 5- 6 and that too in open vessals.",2.0,2019-04-05 13:42:00,0,1,,4,2019,0,1,206,4
-Marsala Food Company,Jayson J Jariwala,"Yesterday we visited this place at 8:30pm. We are 10 people. There was not that much rush in restaurant. If you are going with Zomato gold offer, they will treat as beggar who came to eat without paying any money. Overall very worst experience. Tomato soup with weird smell. We ordered Kung Pao Mahroom as a starter but I can't feel Kunng pao taste in mashroom starter at all. it feels like mashroom chilli. We ordered Baby Corn Masala*2 and Paneer lababadar*2 as Main course and we observed that they served very less quantity compare to other tables as we have zomato gold. They added Baby corn and Paneer pieces which we can easily count. There is more gravy then vegetables, paneer and baby corns as like roadside restaurant usually serve. Even Service is really slow on regular days. I don't know how they manage on weekend. Waiters are very lazy and behaving like they are customers. Best thing is only ambiance.
+Marsala Food Company,Jayson J Jariwala,"Yesterday we visited this place at 8:30pm. We are 10 people. There was not that much rush in restaurant. If you are going with Zomato gold offer, they will treat as beggar who came to eat without paying any money. Overall very worst experience. Tomato soup with weird smell. We ordered Kung Pao Mahroom as a starter but I can't feel Kunng pao taste in mashroom starter at all. it feels like mashroom chilli. We ordered Baby Corn Masala⭐2 and Paneer lababadar⭐2 as Main course and we observed that they served very less quantity compare to other tables as we have zomato gold. They added Baby corn and Paneer pieces which we can easily count. There is more gravy then vegetables, paneer and baby corns as like roadside restaurant usually serve. Even Service is really slow on regular days. I don't know how they manage on weekend. Waiters are very lazy and behaving like they are customers. Best thing is only ambiance.
 
 Ambiance - 4/5
 Food - 1/5
@@ -8686,9 +8686,9 @@ Club Rogue,Shantanu Paul,"Visited the place on a weekday but it was jam packed w
 
 The service was the worst.. All of my friends went to the dance floor and I was stopped by the staff who asked not to leave the table and asked me to deposit my id card. This was pretty humiliating. This place probably sees too many dine & dash incidents given the kind of crowd it caters to.
 The food was average at best.
-They entered ₹200 as tip on the pos machine trying us to pay that for this s***ty service.
+They entered rupees200 as tip on the pos machine trying us to pay that for this s⭐⭐⭐ty service.
 The valet meddled with my car's infotainment system.
-I will avoid this place from now on and stick to more classy places.",1.0,2019-02-20 22:56:00,0,4,27,2,2019,0,1,810,11
+I will avoid this place from now on and stick to more classy places.",1.0,2019-02-20 22:56:00,0,4,27,2,2019,0,1,815,11
 Club Rogue,Sharleen Phlpz,"The staff is not at all friendly As we entered we asked for place and no one even responded to us order was taken after almost an hour and the straight no answer it’s very rude added they don’t have half of the things in menu available. Place being popular amongst the crowd even on weekdays must ensure to meet the menu mentioned food items and sometimes we specially come to try those food items and also serving cold food is a big disappointment
 So I think if the place gets the humbleness and little more friendly it would add on.",2.0,2019-02-20 21:13:00,0,29,169,2,2019,0,1,535,2
 Club Rogue,Mayur Gangwal,"This place is in the SLN terminus mall...it's a huge place with young IT crowd of hitec city pouring in...very good place, nice ambience and setting, food is good and the party scene is electrifying",5.0,2019-02-20 20:15:00,0,35,72,2,2019,0,1,198,1
@@ -9023,7 +9023,7 @@ Staff is quite polite.
 Valet parking
 They don't take reservations after 9pm
 Usually over phone they say the pool side is full but you'll get some seats available for sure.
-The place is open 24*7",5.0,2019-03-21 17:38:00,5,43,61,3,2019,0,0,515,8
+The place is open 24⭐7",5.0,2019-03-21 17:38:00,5,43,61,3,2019,0,0,515,8
 Mazzo - Marriott Executive Apartments,Siddhant Chaugule,"Ambiance is good..
 Servers are courteous..
 #FOOD is COLD & INEIDBLE ..QUALITY IS NOT GOOD and PATHETIC..
@@ -9093,12 +9093,12 @@ And, all of this, while sitting in one of the most beautiful places in the city.
 A heartfelt thank you to the team at Mazzo, for putting together such a beautiful meal.",5.0,2019-02-27 23:31:00,8,117,980,2,2019,0,1,1258,20
 Mazzo - Marriott Executive Apartments,Eat Like Jo 👨🏻‍🍳,"Such a special night to remember when we decided to dine in for a midnight dinner at the beautiful poolside restaurant at Marriott Hotels. We had made the night special and Marriott in turn surprised us with their lip smacking dishes too. We had our hands on few cocktails namely Eye of the tiger and Bull frog which kept the mood flowing for the night.
 The Chicken and Thyme pasta that night was absolutely delicious as the cheese has melted really well as could really enjoy the real taste. Hands on this was the best compared to any pasta I tried in restaurants at Hyderabad. Absolutely wonderful.
-Wok tossed Hakka noodles too surprised as it lived upto the name of why it’s called a Hakka. It purely means an explosion of different flavours in a noodles and it really was. At above ₹400 both dishes really is worth the money further considering the hospitality and the ambience of the hotel.
+Wok tossed Hakka noodles too surprised as it lived upto the name of why it’s called a Hakka. It purely means an explosion of different flavours in a noodles and it really was. At above rupees400 both dishes really is worth the money further considering the hospitality and the ambience of the hotel.
 
 Food-5/5
 Ambience-5/5
 Service-3/5
-Value for money-4/5",5.0,2019-02-27 19:40:00,5,212,524,2,2019,0,0,957,10
+Value for money-4/5",5.0,2019-02-27 19:40:00,5,212,524,2,2019,0,0,962,10
 Mazzo - Marriott Executive Apartments,Saugat Roy,"This is one place where one can spend a Lowsy Sunday. Mr. Nitin was courteous enough to welcome us when we reached Mazzo. The first view which attracts everyone is the pool side arrangement. As i am a hard core non vegetarian the live counters attracted me the most. The Macrail and pork were the best starters of the lot. Chef Aritra was courteous enough to come and check for the taste of food. He also ensured that my son gets to taste the non spicy foods such as Japanese noodles and Murtabak. The cocktails served were also as per expectation.
 The buffet lunch was good but we all were full to taste them. Desert section attracted my son, so we had few chocolate crossant and pastries.
 Overall a great place to hang out with family and friends. Looking forward for evening visit now.",5.0,2019-02-25 20:50:00,2,3,2,2,2019,0,1,790,13
@@ -9162,7 +9162,7 @@ We were welcomed warmly and the chef greeted us and carefully noted our preferen
 
 A little later, the Hot and sour soup arrived. It was a tad bit spicy but it sure opened up all the taste senses to enjoy the dishes coming in later. For starters, we had Veg Manchurian and Paneer 65 served with the green chutney dip. The Veg Manchurian was a little more spicy, but tasted good anyway. And the Paneer 65 was absolute perfection, with the soft Paneer cooked in real balanced masala.
 
-We, then got in Veg Lasagne and Veg Biryani for main course. The lasagne was cooked very differently from the ones that I had earlier. This had a very different taste, I’m not comparing in terms of better or worse, just a very different taste. And it was a delight not just to the taste buds but also to the eyes *winks*. The Biryani, as usual, was good. Accompanied with this was the Apple mint mojito which left a tingling sweet taste every time I had a sip.
+We, then got in Veg Lasagne and Veg Biryani for main course. The lasagne was cooked very differently from the ones that I had earlier. This had a very different taste, I’m not comparing in terms of better or worse, just a very different taste. And it was a delight not just to the taste buds but also to the eyes ⭐winks⭐. The Biryani, as usual, was good. Accompanied with this was the Apple mint mojito which left a tingling sweet taste every time I had a sip.
 
 The best was saved for the last. Although, we were full to the brim, I couldn’t leave the beautiful Rasmalai untouched. And of course, there’s always a separate stomach for desserts, so. 
 
@@ -9382,8 +9382,8 @@ Banana Leaf Multicuisine Restaurant,Ashutosh Choudhari,"I had chicken keema biri
 Banana Leaf Multicuisine Restaurant,Srinivas Rao,"Only one word to describe simply ""Not upto the mark"". they will say 3 non veg starters but they will provide only 2 . Food and customer service could be better.",2.0,2019-01-26 16:46:00,0,7,3,1,2019,1,0,160,3
 Banana Leaf Multicuisine Restaurant,Bondugula Dilip Kumar,"Good place to have food..We ordered Biryani and starter vegetarian.Both were good.As I have zomato gold,only paid the bill for one.Very nice offer to have",4.0,2019-01-26 14:19:00,0,5,12,1,2019,1,1,154,1
 Banana Leaf Multicuisine Restaurant,Gunjan Sharma,"Nice, cozy family restaurant. Offers a nice variety of cuisines and is value for money. Ambience is pretty decent. Parking space is available and there is a lift for restraunt.",4.0,2019-01-21 00:55:00,0,10,5,1,2019,0,0,176,4
-Banana Leaf Multicuisine Restaurant,Keerthi M,"*Here carrot halwa is superb*
-*Andhra chicken curry is awesome*
+Banana Leaf Multicuisine Restaurant,Keerthi M,"⭐Here carrot halwa is superb⭐
+⭐Andhra chicken curry is awesome⭐
 
 I had carrot halwa from here.Really it's superb.Quantity also they have given more compared to other restaurants. Reasonable price they are charging for carrot halwa. I adicted to this recipe. Everyday i am ordering carrot halwa from this restaurant. but a small suggestion from my side to the restaurant that is please don't add food colour.Its not good for health.
 
@@ -9615,7 +9615,7 @@ Kritunga Restaurant,Sphurti Joglekar,For vegetarians- They have amazing Ragi San
 Kritunga Restaurant,Bheemu Arjunsaikrishnareddy,"THEY SERVE WITH HOT AND YOU CAN ORDER SPICY OR LESS SPICY WHAT YOU WANT , IT IS VERY TASTE . SPICY NATU KODI AND MUTTON BIRIYANI IS VERY TASTE .....",4.0,2018-11-07 16:11:00,0,24,25,11,2018,0,0,148,2
 Kritunga Restaurant,JaiReddy,Very bad service. People just roam around. Not even one gives a menu or takes order. Few don't know what's in menu. Tables aren't clean. Onion places got others finger prints with food.,1.0,2018-10-26 14:26:00,0,7,2,10,2018,0,1,185,6
 Kritunga Restaurant,Vadde Venugopal,Over Hyped place.No neatness. They open branches in hot places so that they will get the customers no matter what.Especially this DLF branch is no where preferable.,2.0,2018-10-24 12:27:00,0,8,1,10,2018,0,0,164,2
-Kritunga Restaurant,Vijay Kumar,"Random visit to near by restaurant, but fully satisfied, very tasty, i would love to visit again n recommend others too. Spicy ambiance starters main course all together all 5* from my end, if you love spicy food give a try",5.0,2018-10-17 15:15:00,0,1,1,10,2018,0,1,223,2
+Kritunga Restaurant,Vijay Kumar,"Random visit to near by restaurant, but fully satisfied, very tasty, i would love to visit again n recommend others too. Spicy ambiance starters main course all together all 5⭐ from my end, if you love spicy food give a try",5.0,2018-10-17 15:15:00,0,1,1,10,2018,0,1,223,2
 Kritunga Restaurant,Durga Prasad Sanapala,"Had been here many times becz its nearer to ma Place.. If u want to eat very spicy biryani, i say that u must visit kritunga.. All items here are known for their spicyness. But ambience wont be that much classy. But one can go if it is not an issue for them.",4.0,2018-10-13 10:48:00,0,5,33,10,2018,1,0,258,3
 Kritunga Restaurant,Kunny.anudeep Kunny,I have been in kritunga it was awesome I have ordered Keema biryani it was delicious I give 5rating for services. It is perfect for family and others.,4.0,2018-10-06 14:54:00,0,2,19,10,2018,1,1,150,2
 Kritunga Restaurant,Vishnu S,Awesome spicy starters and biryani. Paya was like soup but not thick with spicy peppers. Biryanis varieties are good and they are with spicy touch. Kunda biryani is my favorite here.,4.0,2018-10-02 19:01:00,2,69,178,10,2018,0,0,182,4
@@ -9654,7 +9654,7 @@ Kritunga Restaurant,Tarimela Vamsi Krishna,"Nice delivery boy good communication
 Kritunga Restaurant,Thirupathi Reddy,nice,5.0,2018-07-31 14:20:00,0,1,,7,2018,0,1,4,1
 Kritunga Restaurant,Harishcse01,super (but costly),5.0,2018-07-30 21:14:00,0,4,2,7,2018,0,1,18,1
 Kritunga Restaurant,Harish,"food is super,but so spicy.__|__",4.0,2018-07-30 14:15:00,0,1,,7,2018,0,1,32,1
-Kritunga Restaurant,Johny,"worst biriyani ever had. there was some small pieces of chicken curry (dry) placed over some rice. I don't know whether you have learnt atleast how biriyani looks like even after being in the city of biriyanis, that it is not just some pieces of chicken kept over a lump of basmati rice. pls grow up. (no 0* option)",1.0,2018-07-29 22:54:00,1,1,1,7,2018,1,1,315,5
+Kritunga Restaurant,Johny,"worst biriyani ever had. there was some small pieces of chicken curry (dry) placed over some rice. I don't know whether you have learnt atleast how biriyani looks like even after being in the city of biriyanis, that it is not just some pieces of chicken kept over a lump of basmati rice. pls grow up. (no 0⭐ option)",1.0,2018-07-29 22:54:00,1,1,1,7,2018,1,1,315,5
 Kritunga Restaurant,Veena Kummari,very bad wrong order received,1.0,2018-07-29 21:38:00,0,0,,7,2018,1,1,29,1
 Kritunga Restaurant,Chaitanya Ankam,Great delivery.,5.0,2018-07-29 21:14:00,0,1,1,7,2018,1,1,15,1
 Kritunga Restaurant,Ashok Deva,Super man. So fast delivery man,5.0,2018-07-29 15:54:00,0,0,,7,2018,1,1,31,2
@@ -11536,7 +11536,7 @@ La La Land - Bar & Kitchen,Mitesh Agarwal,"They have a good amount of space with
 Service is also good and I love their all 99 Tuesday menu for starters and drinks as it’s all the worth. However, they should maintain consistency in having all those limited menu items available and not just make an attractive Tuesday menu for sake of it.
 4 🌟 mostly because the value for tasty food is worth it. Hopefully in next visit they don’t say we don’t have cheese starters in limited Tuesday Menu! 😛",4.0,2019-03-09 20:33:00,0,39,125,3,2019,1,1,688,8
 La La Land - Bar & Kitchen,Sphurti Joglekar,Good food and service as well as classy ambience but music was too loud . I went on a date with my husband here and we had an over all good time . We really liked peanut masala and cocktail collection(2+2 zomato worked perfectly!) . Pepper chicken and corn fritters were good and spicy!,4.0,2019-03-07 11:21:00,4,37,118,3,2019,0,0,286,5
-La La Land - Bar & Kitchen,Surya Tej Kanuri,"*go here only if you want to drink and dance. Not a place for casual chat*
+La La Land - Bar & Kitchen,Surya Tej Kanuri,"⭐go here only if you want to drink and dance. Not a place for casual chat⭐
 
 Food - 5/7
 Ambiance -4/7 ( tooooo loud music)
@@ -11667,7 +11667,7 @@ The staff is friendly. 🧡
 There's a projection screen too. 💚
 Zomato gold is applicable here on drinks. 💜",5.0,2018-12-26 08:49:00,0,111,1013,12,2018,0,0,264,8
 La La Land - Bar & Kitchen,Mounika,"I visited this place yesterday for a lunch buffet. I must say, this place needs more hype. The food is really really good for the price. Ambience is great too! How can I not mention the courteous staff? I'm gonna visit again :)",4.0,2018-12-23 20:55:00,0,25,12,12,2018,1,1,227,6
-La La Land - Bar & Kitchen,Uday Kumar,"Been here with a big group of colleagues for buffet lunch on a Friday. Starters were great, as was the service. Desserts can be improved, please replace those burfy style.sweets with a live ice cream counter and you should score a 5*.",4.0,2018-12-21 16:47:00,1,13,3,12,2018,0,0,234,3
+La La Land - Bar & Kitchen,Uday Kumar,"Been here with a big group of colleagues for buffet lunch on a Friday. Starters were great, as was the service. Desserts can be improved, please replace those burfy style.sweets with a live ice cream counter and you should score a 5⭐.",4.0,2018-12-21 16:47:00,1,13,3,12,2018,0,0,234,3
 La La Land - Bar & Kitchen,Vineeth Surya,"The ambience and food was amazing...
 They served with
 3 veg starters
@@ -12467,7 +12467,7 @@ Aditya came to our rescue and we just told him ki bro get whatever is best you f
 
 We started off with TOM KHA GHAI SOUP : Actually this was a great choice being succha cold weather outside and we being so tired. The garlic and bamboo stick flavours could actually help our bad throat and the coconut flavoured soup with loads of fresh veggies and big chunks of chiken we're so refreshing.
 
-We then ordered NASI GORENG CHIKEN :Long grains of perfectly cooked rice with loads and loads of flavours in it. **Must try** and BAR B Q CHIKEN : this was perfect combination with the rice, lil sweet, spicy and flavoursome chiken cooked semi wet.**Must try**
+We then ordered NASI GORENG CHIKEN :Long grains of perfectly cooked rice with loads and loads of flavours in it. ⭐⭐Must try⭐⭐ and BAR B Q CHIKEN : this was perfect combination with the rice, lil sweet, spicy and flavoursome chiken cooked semi wet.⭐⭐Must try⭐⭐
 
 Mix sea food soft noodles and mix sea food rice were amazing too.
 
@@ -12475,7 +12475,7 @@ Burmese khow sue was one amazing dish too ❤️❤️❤️
 
 For take away we ordered PHAD THAI MIX SEA FOOD NOODLES.....and trust me after having so much at restaurant, I couldn't resist when Rawshan opened the box at home. I went ahead and gulped down four spoons of it. Oh my god, this is one AmaZing dish that I have tasted in recent times and if tell you about quantity, one take away of this is sufficient for three people.
 
-Flat noodles cooked with garlic, fresh herbs, prawns and fish, with mushroom and sweet sauce. Also fresh red chilli. *** A must must try ****
+Flat noodles cooked with garlic, fresh herbs, prawns and fish, with mushroom and sweet sauce. Also fresh red chilli. ⭐⭐⭐ A must must try ⭐⭐⭐⭐
 
 Quantity of food served here is unbelievable.
 
@@ -12485,7 +12485,7 @@ Bill came to 1600+ for 4 after 10% friendly gesture discount.
 
 Staff is very friendly and Aditya was great at service.
 
-We were about to leave Suhail SuhRac MacAdams bumped into us. It was great meeting you. And thanks for making our dinner so special.",5.0,2018-07-15 12:48:00,10,106,1893,7,2018,1,0,2438,24
+We were about to leave Suhail SuhRac MacAdams bumped into us. It was great meeting you. And thanks for making our dinner so special.",5.0,2018-07-15 12:48:00,10,106,1893,7,2018,1,0,2438,23
 Shanghai Chef 2,Mr. Mighty,"An awesome place to enjoy Chinese. It looks very ordinary from the outside but the interior of the restaurant is very classy. The ambience is really very good. The most amazing and surprising part of this restaurant is it's food. I was so amazed with the food. It's a 100% must go place for all foodies. The prices matches the quantity+quality and doesn't leave a hole in your pocket. This sets the restaurant miles apart in comparison to other similar level Chinese restaurant.
 This restaurant will definitely be one of my top favourites while considering Chinese.",5.0,2018-07-14 15:17:00,2,22,32,7,2018,1,1,566,9
 Shanghai Chef 2,Nandini Rathaur,"The gravy were very dilute
@@ -12814,9 +12814,9 @@ I am visit again...",5.0,2018-12-01 00:27:00,0,1,14,12,2018,1,0,175,1
 Mathura Vilas,Tanmay Agarwal,Worst service food. Those who want blood pressure problem may visit. Every thing highly saalted. Don't go on name mathura it's local. Worst food worst service,1.0,2018-11-30 22:23:00,0,4,,11,2018,0,1,158,5
 Mathura Vilas,Suchata Biswas,"Ordered malai kofta.. very sweet n has a peculiar after taste.. the butter naan was chewy only the tandoori roti was good, the only think i liked.",3.0,2018-11-29 23:00:00,0,59,226,11,2018,0,1,146,1
 Mathura Vilas,Ricky,"We ordered veg Thali here and trust me on this, food taste was good. Perhaps they can do better on buttermilk area. Serve in medium or large glass guys. We did not order tequila shots. Average price levels. Place to be with your office colleagues sometimes for quick feast.",4.0,2018-11-24 22:22:00,0,128,206,11,2018,1,1,273,6
-Mathura Vilas,Pritesh Mohanty,"Service - Extremely Poor 1*
-Food - Average 2*
-Ambience- Average 2*
+Mathura Vilas,Pritesh Mohanty,"Service - Extremely Poor 1⭐
+Food - Average 2⭐
+Ambience- Average 2⭐
 Overall not a good experience. We ordered for North Indian thali, had to wait pretty long for it to come. Finally arrived, now to make it worse, If we ordered for some more they took 20 mins or more to get the item. They are so slow in serving, you will loose interest in your food. Welcome drink came after we finished having the starters, such is their promptness.",2.0,2018-11-24 21:07:00,0,1,99,11,2018,1,1,436,5
 Mathura Vilas,Yogesh,"What’s the point of taking Zomato Gold when there are so many restrictions on what is eligible. Look at the terms and conditions - they are so restrictive. The main speciality of the Mathura Vilas, ie Thali is not eligible for Zomato Gold. Coverage of Zomato Gold needs to drastically improve. No point in having Zomato Gold otherwise",1.0,2018-11-24 13:02:00,0,2,,11,2018,1,1,334,5
 Mathura Vilas,Avijnath G,"Apparently on holidays,half their staff too goes on a holiday.
@@ -13345,7 +13345,7 @@ Food -6/10
 Service -6/10
 Ambience - 6/10
 Rates - 5/10
-*One awful thing! #No soft drinks.. only Lime Water(Sweet/Salty)",3.0,2018-08-18 21:06:00,0,38,399,8,2018,1,1,283,4
+⭐One awful thing! #No soft drinks.. only Lime Water(Sweet/Salty)",3.0,2018-08-18 21:06:00,0,38,399,8,2018,1,1,283,4
 Gal Punjab Di,Shrestha Gupta,Average place with average food and ambience. They claim to be a Punjabi restaurant but not really Punjabi at core. The food is just ok with okayish ambience.,3.0,2018-08-18 14:58:00,0,4,22,8,2018,1,1,158,3
 Gal Punjab Di,Johanne Rebello,Decor n all great. Reviews bought me here with high expectations. The food was rancid and didn't look well prepared or freshly made. I ordered some cheese kofta. It was hard as a rock that kofta. Overall super weird punjabi food. Easy on the pocket but it's not something I would try again,1.0,2018-08-05 12:43:00,0,12,8,8,2018,1,0,289,7
 Gal Punjab Di,Rajesh Kumar Yadav,"Taste of food was very good. Specifically Palangtod chicken. One of best chicken curry that I ever eat. Since this was Panjabi restorant so don't expect Hyderabad Dum biryani but their biryani still very good I would say. On top of all Lassi was just awesome. Price is also very decent. So value for money.
@@ -13369,9 +13369,9 @@ Food : we had ordered Sava futiya Seekh kabab, Lassuni Chicken tikka & Bhatti da
 Stuffing ourselves with the starters, we settled for Dal Makhani with Missi Roti & lachcha parathas, for we couldn't eat in more.
 
 The MENU CARD in itself is very quirky, it actually sparks up a thought of actually tasting those times....
-* Sheela ki shashlik
-* sava futiya seekh KABAB
-*gat gat galaouti
+⭐ Sheela ki shashlik
+⭐ sava futiya seekh KABAB
+⭐gat gat galaouti
 
 & many more
 
@@ -13454,7 +13454,7 @@ Hitech Bawarchi Food Zone,MD HUSSAM,"Mutton biryani was worst. No proper taste, 
 Hitech Bawarchi Food Zone,Kanakesh,Good,5.0,2018-08-16 23:22:00,0,2,,8,2018,0,1,4,1
 Hitech Bawarchi Food Zone,Laskarevishal22,good,5.0,2018-08-16 15:57:00,0,1,1,8,2018,0,1,4,1
 Hitech Bawarchi Food Zone,Vamsi Pallapu,good,5.0,2018-08-16 15:46:00,0,1,1,8,2018,0,1,4,1
-Hitech Bawarchi Food Zone,Dj Sooraj,Delivery system is too bad.......... Fuc*.....................................................................................................,1.0,2018-08-16 14:35:00,0,4,417,8,2018,0,1,142,1
+Hitech Bawarchi Food Zone,Dj Sooraj,Delivery system is too bad.......... Fuc⭐.....................................................................................................,1.0,2018-08-16 14:35:00,0,4,417,8,2018,0,1,142,1
 Hitech Bawarchi Food Zone,Razi Uddin,Good delivery time,5.0,2018-08-15 16:52:00,0,4,1,8,2018,0,0,18,1
 Hitech Bawarchi Food Zone,Sathya,good,3.0,2018-08-15 13:22:00,0,1,,8,2018,0,1,4,1
 Hitech Bawarchi Food Zone,Gani,go,5.0,2018-08-10 16:34:00,0,1,,8,2018,0,0,2,1
@@ -14029,7 +14029,7 @@ Diners Pavilion,SONALIKA,"Many issues to start with :
 3. Nothing was planned , like the placement of food , it was more of a day to day kitchen.
 4. On the contrary , Ice-cream was already melt :)
 
-Taste was good, had it been served properly it would've definitely deserved more than 4*.
+Taste was good, had it been served properly it would've definitely deserved more than 4⭐.
 
 Hope these things are taken proper care of.",1.0,2018-08-03 16:15:00,0,1,,8,2018,0,0,417,9
 Diners Pavilion,Age Of Foodies (Suraj Karambe),"Ambiance-
@@ -14570,9 +14570,9 @@ We ordered a Farmers omlette, masala omlette, american panacake, banana ginger m
 Farmers omlette was the best dish out of everything, pancakes melt in the mouth and the combination of banana and ginger just works.
 
 I would love to come back to this place and recommend others to try out.",5.0,2018-09-01 12:06:00,0,1,48,9,2018,1,0,404,4
-Cafe Eclat,Poojitha Challagali,"Ambience - 4*
-Service - 3*
-Food - 2*
+Cafe Eclat,Poojitha Challagali,"Ambience - 4⭐
+Service - 3⭐
+Food - 2⭐
 It’s a good place to hangout. But get your hands only on the items in display rather than ordering from the Menu.
 Not a place for people who love spice.",2.0,2018-08-27 15:03:00,0,5,15,8,2018,0,1,193,3
 Cafe Eclat,Praful,"Update: Just wanted to make sure the cafe would know... I am reverting my rating to a 1 coz your staff's issue with the payment caused me a ton of pain now. To make a long story short.. you guys charged me twice on the same day and then charged me the same amount after almost 3days of visiting your cafe. Now thanks to that my bank decided my card has been compromised and blocked my card. My account went into negative balance you guys decided to charge me thrice overall and refund me once, my card is blocked and i am pissed. Truly a nightmare experience, all because i choose your establisment by mistake.
@@ -14731,7 +14731,7 @@ Feast - Sheraton Hyderabad Hotel,Manojkumar D Nambisan,"Buffet is good, though e
 Feast - Sheraton Hyderabad Hotel,Amit,"Standing true to its 5-star ambience, the food gels to fit in the category of a premium outing. Salads, Chat, North Indian, Continental to South Indian, this place tends to fulfil the cravings of each category. There was a huge section of Salads out of which Bacon salad being the pick of the lot. The Starters spread included Hummus varieties with dry and soft pita breads, Farm fresh cheese varieties which were a delight, Live chat and Pasta counters, Tawa fish, Fish fry, Chicken starters, Pork pepperoni, Sauted mushrooms, Chicken Salami, Bacon, Sausages etc.  
 
 The Main course had Chicken Haleem which was okaish, Chicken Biryani which was good, Mutton curry where I felt the pieces were undercooked, Mirchi ka salan, Veg Biryani and some veg curries. The main course could have been better in terms of the standard of taste set by the starters. Prawns and Crab items were missing which could have furthermore enhanced the visit experience. The desserts section was an absolute joy for sweeth tooth. They had a humungous spread of sweets which included Chocolate burfi sandwich, mud pudding, motichoor laddu, Barfis, Moong dal Halwa, Phirni, Fruit kheer etc. The pastries section had a lot to offer in terms of various flavours and varieties. Overall a decent outing experience!",4.0,2019-03-14 12:42:00,5,166,912,3,2019,0,0,1287,11
-Feast - Sheraton Hyderabad Hotel,Surya Tej Kanuri,"*one of the best brunches.. People with a sweet tooth.. You should go👌👍*
+Feast - Sheraton Hyderabad Hotel,Surya Tej Kanuri,"⭐one of the best brunches.. People with a sweet tooth.. You should go👌👍⭐
 
 Food - 6/7
 Ambiance - 5/7
@@ -14823,7 +14823,7 @@ Feast - Sheraton Hyderabad Hotel,Shankar Murthy,"Been here with a group of 35 pe
 Vert spacious dine area, peaceful ambiance. Hotel staff greats you with smile. Good number of dishes, lots of dessert options but no good ice creams flavors. Bengali sweets, palak chat, mango crumble, fresh fruit cake are must try.",4.0,2019-02-13 12:18:00,0,43,1035,2,2019,0,0,285,5
 Feast - Sheraton Hyderabad Hotel,Shivam,"With the name you definitely expect and hope a lot but when it comes to reality, everything fails.
 
-I had a vegetarian buffet and the spread was limited. There was no paneer in starters which is any vegetarians heart. And when i asked if they can prepare (with the huge cost of ₹1750 involved) they couldn't.
+I had a vegetarian buffet and the spread was limited. There was no paneer in starters which is any vegetarians heart. And when i asked if they can prepare (with the huge cost of rupees1750 involved) they couldn't.
 
 Also the taste of other items is not upto the mark.
 
@@ -14831,7 +14831,7 @@ The only good thing i can remember is Aaloo tiki chaat.
 
 I would recommend you to plan somewhere, even if it's a team dinner, though mine was not!
 
-It's not even worth ₹ 500 and i am definitely not going to Sheraton again!",1.0,2019-02-11 17:11:00,0,19,39,2,2019,0,0,595,8
+It's not even worth rupees 500 and i am definitely not going to Sheraton again!",1.0,2019-02-11 17:11:00,0,19,39,2,2019,0,0,605,8
 Feast - Sheraton Hyderabad Hotel,Kanthareddy Poreddy,"Went with family for Sunday brunch...very good ambience..and good service..wide spread in buffet.. especially in desserts..salads.mutton biryani was so..good.garlic burnt fried rice exlent mutton curry superb..finally sweets and ice-creams ..,😋😋 we enjoyed all food withfresh lemon juice ...thanks to feast team",4.0,2019-02-11 14:15:00,10,18,19,2,2019,0,1,311,1
 Feast - Sheraton Hyderabad Hotel,Karthik Vempa,"Visited this place many times since it is in walkable distance from my office. Never disappointed with their quality of food, variety and the service. Excellent place for lunch buffet. Good recommend any day",5.0,2019-02-09 11:06:00,0,62,94,2,2019,1,0,207,4
 Feast - Sheraton Hyderabad Hotel,Pulugurtha Tushara,We live close by and end up coming to feast Sheraton often and we absolutely love it here! Chef Akshay and his staff are so courteous and welcoming and cater to all our requests. Must try the desserts in the buffet. Great place for peaceful dinners.,5.0,2019-02-07 21:07:00,0,1,2,2,2019,0,1,249,4
@@ -15070,7 +15070,7 @@ The food was great. The delivery guy also was so polite.",5.0,2018-07-20 14:27:0
 Being Hungry,Sreedhar1609,Taste less Biriyani...not following Delivery Instructions,1.0,2018-07-20 07:23:00,0,1,1,7,2018,0,0,57,1
 Being Hungry,Reddybasis6,Not cocked,1.0,2018-07-20 06:18:00,0,1,,7,2018,0,0,10,1
 Being Hungry,Rajaboinaprashanth333,very good,5.0,2018-07-20 00:14:00,0,7,1,7,2018,0,0,9,1
-Being Hungry,Surya,,5.0,2018-07-19 23:55:00,0,4,4,7,2018,0,1,3,1
+Being Hungry,Surya,,5.0,2018-07-19 23:55:00,0,4,4,7,2018,0,1,0,0
 Tempteys,Sravani,"Different base options available here...pretty good ambiance to go with friends and it’s very close to DLF , that’s more than require to hang out here.",5.0,2019-05-22 13:59:00,0,10,10,5,2019,0,1,151,1
 Tempteys,Aditi Bhaiji,"I go to the onsite shop and have some shakes there. They are too delicious 😋
 I would rate there service as 4.5/5 , food as 4.5/5 , ambience as 4.5/5 .
@@ -16105,28 +16105,28 @@ Ambience- So, the place is really spacious with both indoor seating( club ) and 
 
 Food- I was here with my friends the other day for lunch and we tried the following,
 APPETIZERS
-* Tandoori malai broccoli- Broccoli are marinated in cheese & cashew paste and cooked in a tandoor! It was scrumptious. ( 4/5 )
+⭐ Tandoori malai broccoli- Broccoli are marinated in cheese & cashew paste and cooked in a tandoor! It was scrumptious. ( 4/5 )
 
-* Crispy chapa- Fish fillets are marinated in Indian masala and deep fried to perfection! It was topped with fried curry leaves and chillies. Must try! ( 5/5 )
+⭐ Crispy chapa- Fish fillets are marinated in Indian masala and deep fried to perfection! It was topped with fried curry leaves and chillies. Must try! ( 5/5 )
 
-* Chicken nachos- Tortilla chips topped with pieces of chicken, red beans, corn and other veggies were delish you guys! Another favourite. ( 4/5 )
+⭐ Chicken nachos- Tortilla chips topped with pieces of chicken, red beans, corn and other veggies were delish you guys! Another favourite. ( 4/5 )
 
-* Fish fingers- Fish fillets cut into strips are coated with bread crumbs and deep fried. They were so crispy from the outside and tender from the inside. It came along with french fries and mayonnaise. ( 5/5 )
+⭐ Fish fingers- Fish fillets cut into strips are coated with bread crumbs and deep fried. They were so crispy from the outside and tender from the inside. It came along with french fries and mayonnaise. ( 5/5 )
 
-* Moroccan chicken sticks- Grilled chicken skewers marinated in olive oil and other spices! They were smoky and appetizing. ( 4/5 )
+⭐ Moroccan chicken sticks- Grilled chicken skewers marinated in olive oil and other spices! They were smoky and appetizing. ( 4/5 )
 
-* Jhinga nasheela- Prawns marinated in Indian masala and grilled! It was crispy and medium spiced. ( 3/5 )
+⭐ Jhinga nasheela- Prawns marinated in Indian masala and grilled! It was crispy and medium spiced. ( 3/5 )
 
-* Bruschetta- Slices of sandwich bread are topped with veggies & cheese and baked! They were seasoned with red chilli flakes. Honestly, It wasn't even bruschetta in the first place! Give it a miss. ( 2/5 )
+⭐ Bruschetta- Slices of sandwich bread are topped with veggies & cheese and baked! They were seasoned with red chilli flakes. Honestly, It wasn't even bruschetta in the first place! Give it a miss. ( 2/5 )
 
 MAIN COURSE-
-* 7H special chicken biryani- Basmati rice cooked along with pieces of chicken marinated in Indian masala! The entire dish was covered with an omelette that was topped with fried onions. It was truly unique in terms of both taste and presentation. Highly recommend the biryani! ( 5/5 )
+⭐ 7H special chicken biryani- Basmati rice cooked along with pieces of chicken marinated in Indian masala! The entire dish was covered with an omelette that was topped with fried onions. It was truly unique in terms of both taste and presentation. Highly recommend the biryani! ( 5/5 )
 
-* Spaghetti aglio e olio( veg )- Spaghetti tossed in olive oil along with black olives, garlic and chilli flakes! It was appetizing. ( 4/5 )
+⭐ Spaghetti aglio e olio( veg )- Spaghetti tossed in olive oil along with black olives, garlic and chilli flakes! It was appetizing. ( 4/5 )
 
-* Great nawabi pizza- Pizza topped with chicken tikka, veggies and mayo! Although the toppings were generous and spicy, the base of the pizza was a serious let down! It was hard. ( 3/5 )
+⭐ Great nawabi pizza- Pizza topped with chicken tikka, veggies and mayo! Although the toppings were generous and spicy, the base of the pizza was a serious let down! It was hard. ( 3/5 )
 
-* Alishaan chicken s/w- Pieces of chicken, lettuce and other veggies along with mayo are sandwiched between two grilled breads! Served along with fries and salad. It was just okay-ish. ( 3/5 )
+⭐ Alishaan chicken s/w- Pieces of chicken, lettuce and other veggies along with mayo are sandwiched between two grilled breads! Served along with fries and salad. It was just okay-ish. ( 3/5 )
 
 DRINKS
 So we tried a few mocktails( about 5 ) and honestly they were bad! The only saviour was Virgin Mojito.
@@ -16952,12 +16952,12 @@ Hyderabad Chefs,Pradeep Reddy,Good,5.0,2018-07-28 17:07:00,0,1,,7,2018,1,0,4,1
 Hyderabad Chefs,Kotaru Sydeswararao,excellent communication,5.0,2018-07-27 21:18:00,0,0,,7,2018,0,1,23,1
 Hyderabad Chefs,Santhosh Peddi,Butter milk not delivered,1.0,2018-07-27 13:37:00,0,0,54,7,2018,0,1,25,1
 Hyderabad Chefs,Munna Chinna,"Provided more masala and less onions , last week totally less masala and full of white rice",2.0,2018-07-26 23:18:00,0,0,10,7,2018,0,1,91,1
-Hyderabad Chefs,Damoder Volavoju,1*,2.0,2018-07-26 20:48:00,0,0,,7,2018,0,1,2,1
+Hyderabad Chefs,Damoder Volavoju,1⭐,2.0,2018-07-26 20:48:00,0,0,,7,2018,0,1,2,1
 Hyderabad Chefs,Arun Chary,fast delivery,5.0,2018-07-26 18:03:00,0,0,28,7,2018,0,0,13,1
 Hyderabad Chefs,Srinivas Munnurukapu,nice,5.0,2018-07-25 12:40:00,0,1,14,7,2018,0,0,4,1
 Hyderabad Chefs,Divya Bandi,goood,5.0,2018-07-24 15:24:00,0,1,1,7,2018,0,1,5,1
 Hyderabad Chefs,Purandhar Bandaru,good,5.0,2018-07-23 21:53:00,0,1,,7,2018,0,1,4,1
-Hyderabad Chefs,Madhurimanne97,,5.0,2018-07-23 16:29:00,0,1,,7,2018,0,0,3,1
+Hyderabad Chefs,Madhurimanne97,,5.0,2018-07-23 16:29:00,0,1,,7,2018,0,0,0,0
 Hyderabad Chefs,Murali Krishna,good delivery,5.0,2018-07-22 22:44:00,0,1,9,7,2018,1,1,13,1
 Hyderabad Chefs,Satyakrishna Chinthalapudi,the deliver agent was on time and professional..,5.0,2018-07-22 12:42:00,0,1,21,7,2018,1,0,48,1
 Hyderabad Chefs,Srikanth Srimanthudu,less peaces,2.0,2018-07-21 00:15:00,0,2,,7,2018,1,0,11,1
@@ -17008,7 +17008,7 @@ Hyderabad Chefs,Nikhil Anantha,good,5.0,2018-07-09 17:47:00,0,1,,7,2018,0,0,4,1
 Hyderabad Chefs,Ranjeeth Pathi,very nice and delicious.,5.0,2018-07-09 15:23:00,0,1,,7,2018,0,1,24,1
 Hyderabad Chefs,Vikky Mark,awesome service,5.0,2018-07-09 15:11:00,0,1,1,7,2018,0,1,15,1
 Hyderabad Chefs,B. Prashanth,Good,5.0,2018-07-09 13:57:00,0,2,3,7,2018,0,1,4,1
-Hyderabad Chefs,Harsha,,5.0,2018-07-08 21:19:00,0,1,,7,2018,1,1,3,1
+Hyderabad Chefs,Harsha,,5.0,2018-07-08 21:19:00,0,1,,7,2018,1,1,0,0
 Hyderabad Chefs,Sameer Syed,Delivery was too late. it got delivered by 10:50 PM. we ordered at 9:45pm. And biryani is not hot. very bad serve.,1.0,2018-07-07 23:29:00,0,1,18,7,2018,1,1,114,5
 Hyderabad Chefs,Sai Mahesh Phanidapu,Taste is good,5.0,2018-07-07 22:27:00,0,1,1,7,2018,1,1,13,1
 Hyderabad Chefs,Ravi Gowthu,25mins late..,2.0,2018-07-07 21:13:00,0,2,,7,2018,1,1,13,1
@@ -17042,7 +17042,7 @@ Komatose - Holiday Inn Express & Suites,Brajesh Mishra,"Visited on Sunday evenin
 Surprisingly, it was quiet. 
 But loved the ambiance.. 
 It's quite spacious.
-Had it been a lil more crowded, I'd have given 5*s
+Had it been a lil more crowded, I'd have given 5⭐s
 Overall, Thumbs Up!",4.0,2019-03-05 09:19:00,0,2,14,3,2019,0,0,178,4
 Komatose - Holiday Inn Express & Suites,Rwitaja Banerjee,It is always a pleasure to go back ... the food seems to get better every time . The desserts specially are something to die for. This time we tried tiramisu and blueberry cheesecake. They were both so moist and melt in the mouth,5.0,2019-03-04 07:52:00,4,13,37,3,2019,0,0,229,4
 Komatose - Holiday Inn Express & Suites,Ruby Singh,I keep going back to this place for the amazing service in terms of food and drinks both. The ambience is good and good to watch match as well. They have indoor as well as outdoor seating. They have a small attic area as well which can be booked for private parties.,4.0,2019-03-01 20:13:00,2,23,135,3,2019,0,1,266,4
@@ -17050,7 +17050,7 @@ Komatose - Holiday Inn Express & Suites,MANAS AGRAWAL,"The food over here is goo
 Komatose - Holiday Inn Express & Suites,Jasmeet Singh Allagh,"Always good to visit this place. Amazing deserts, great ambience, awesome staff.. Suggested best try is- blue berry Cheesecake. Don't miss the sign on washroom entrance..",5.0,2019-02-17 23:40:00,0,80,250,2,2019,1,1,170,3
 Komatose - Holiday Inn Express & Suites,Manojkumar D Nambisan,"Great food, good ambience and decent seating. Decent service and good for team get together and celebrations.
 Love the Water Chestnut starter",4.0,2019-02-16 12:37:00,0,29,11,2,2019,1,0,142,3
-Komatose - Holiday Inn Express & Suites,Sinha Kunal,The most f*****g experience I have had at this place .. service is super pathetic. Their waiters act like a bunch of jokers. For every order and drink you need to run after them. Will never advise any one to visit this place.,1.0,2019-02-16 09:17:00,0,2,,2,2019,1,0,225,4
+Komatose - Holiday Inn Express & Suites,Sinha Kunal,The most f⭐⭐⭐⭐⭐g experience I have had at this place .. service is super pathetic. Their waiters act like a bunch of jokers. For every order and drink you need to run after them. Will never advise any one to visit this place.,1.0,2019-02-16 09:17:00,0,2,,2,2019,1,0,225,4
 Komatose - Holiday Inn Express & Suites,Pranay Agarwal,"and this place iss just marvelous. perfct dining place and causal louge place both maintained differently had totally diff experience
 
 food 4/5
@@ -17067,7 +17067,7 @@ We ordered garlic naan, palak paneer lahsooni and chapatis (being with a vegetar
 Komatose - Holiday Inn Express & Suites,Nithisha Reddy,"Had been to this place on a weekend. Amazing ambience. Staff and service was the best I have seen anywhere. They were very prompt, courteous, jovial. Great choice of food and beverages. Overall it was a delightful and amazing experience. DJ was amazing.
 Food - 5/5
 Ambience - 5/5
-Service- 5/5**
+Service- 5/5⭐⭐
 Would definitely visit this place again and would recommend as well.
 Last but not the least, the price was very reasonable.",5.0,2019-02-03 05:52:00,3,53,287,2,2019,1,0,423,9
 Komatose - Holiday Inn Express & Suites,Frenchmanms,"Been there a number of times and absolutely no issues any time. I love the ambience, especially the couches on the mezzanine floor. Drinks are made well and food is generally good.",5.0,2019-01-29 22:04:00,0,3,9,1,2019,0,1,180,3
@@ -17156,11 +17156,11 @@ If you're a party animal you'll find this place a hit on Thursdays where they ta
 I'd absolutely recommend this place, if you're looking for your next regular bar.
 As the saying goes ""You should always be a regular for more than one bar"" and this should absolutely be on your list.",5.0,2018-09-21 23:09:00,0,20,16,9,2018,0,1,1081,13
 Komatose - Holiday Inn Express & Suites,Aishwarya Suresh,"Visited for a dinner with family! Loved the options available on the menu, the ambience and the courteousness of the staff. Food was yummy and I must say the playing was fabulous!! Hats off to the chef!! A must visit..",5.0,2018-09-17 00:34:00,0,8,64,9,2018,0,0,218,5
-Komatose - Holiday Inn Express & Suites,Satyen Rai,"Komatose turned out to be a nice little place. The food/drinks, the ambiance, the live music* — everything was nice. They have great options for both buffet and a la carte. They even have an open sitting area which adds to the overall appeal.
+Komatose - Holiday Inn Express & Suites,Satyen Rai,"Komatose turned out to be a nice little place. The food/drinks, the ambiance, the live music⭐ — everything was nice. They have great options for both buffet and a la carte. They even have an open sitting area which adds to the overall appeal.
 
 Recommendation — a must visit if you are in the area.
 
-* The live music is available only on Saturdays — as far as I know.",4.0,2018-09-16 14:07:00,0,42,111,9,2018,1,1,370,6
+⭐ The live music is available only on Saturdays — as far as I know.",4.0,2018-09-16 14:07:00,0,42,111,9,2018,1,1,370,6
 Komatose - Holiday Inn Express & Suites,Pranjal Shukla,"Fantastic Place to hangout with your buddies. The cheapest beer in whole of Hyderabad as per the hotel standards is here.
 
 They also have a seating area outside which is like a tent.
@@ -17424,7 +17424,7 @@ Food: 4/5
 Price: 4/5 
 Service: 4/5  
 Ambience: 3/5 (Our review has been based only on home delivery and hence keeping this neutral) 
-***************** 
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 
 Overall: 4/5 (Implied rating of 4 on Zomato)",4.0,2018-12-11 00:00:00,0,560,2863,12,2018,0,0,2470,25
 Aromas@11SIX,Sharanya.naga77,I wish i had a 0 star option for this.We visited for the first time and it was a very unprofessional way of having food there. The service was although fast but the food was terrible. We ordered apollo fish which was not at all worth eating and the mushroom starter itself gave a unwilligness to eat. The main course we ordered was Murg and Veg Kolhapuri which absolutely had no salt in it. The restaurant couldnt even provide lemons to us even after requesting multiple times whereas they had cut lemons for finger bowl. A must “No” to this place.,1.0,2018-12-09 21:38:00,0,5,3,12,2018,1,1,548,6
 Aromas@11SIX,Habeeb,"If you’re bored of these pizza burgers & biryani mandis , I think you should definitely visit this place
@@ -17533,7 +17533,7 @@ Aromas@11SIX,Gayatri Tandon,"So I haven't tried most of their dishes but what I'
 
 P.s. you may follow me on my Instagram page by the name of simbas_sister for more interesting food feeds. :)",4.0,2018-08-11 13:24:00,0,66,84,8,2018,1,1,386,7
 Aromas@11SIX,Hema Latha,nice good,5.0,2018-08-09 14:20:00,0,1,1,8,2018,0,1,9,1
-Aromas@11SIX,Sandeep Sanu,"If you have no value for money then this restaurant is good to waste your money. Reason for giving 3* is due to veg curries which were told be good by my vegan friends. But, we, non-veg guys were totally disappointed for non-veg curries. It's got no taste at all. Chilli chicken gravy was like saucy-saucy. No spicy at all. Butter rotis were thicker than it usually has to be. It tasted like wheat flour and not maida.
+Aromas@11SIX,Sandeep Sanu,"If you have no value for money then this restaurant is good to waste your money. Reason for giving 3⭐ is due to veg curries which were told be good by my vegan friends. But, we, non-veg guys were totally disappointed for non-veg curries. It's got no taste at all. Chilli chicken gravy was like saucy-saucy. No spicy at all. Butter rotis were thicker than it usually has to be. It tasted like wheat flour and not maida.
 
 Service- Good
 Taste- Below average
@@ -17756,7 +17756,7 @@ P.S. Don't get flabbergasted by the looks of the Mandi
 Personal favourites: Chicken BBQ Mandi, Mutton Juicy Mandi. Fairly good shawarmas (sp. chicken cheese shawarma)",3.0,2018-09-17 15:31:00,2,52,123,9,2018,0,1,506,11
 Yum Yum Tree - The Arabian Food Court,Prince Tariq,Mixed Mandi....So far the best one I had.... ideal for 4 to 6 people who r foodies....ambience too gud....service neee to be improved. Seating good enough. Loved it. Try for the parties with ur friends.,4.0,2018-09-01 14:27:00,2,42,146,9,2018,1,1,202,4
 Yum Yum Tree - The Arabian Food Court,Venu Gopal Allumalla,They didn't provide any ketchup nor tissues also with the order. Ordered chicken cheese shawarma which is not tasty and the fries provided are not fresh but very soft.,1.0,2018-08-21 22:15:00,0,2,1,8,2018,0,1,167,2
-Yum Yum Tree - The Arabian Food Court,Mukherjee,"Went on a sat noon. Food is ok type, not that tasty, mayonese is sweet (-_-| wtf ????) , mutton is not tasty. Chicken starter was crispy ( reason for 2 *) . I didn't like the desert also.
+Yum Yum Tree - The Arabian Food Court,Mukherjee,"Went on a sat noon. Food is ok type, not that tasty, mayonese is sweet (-_-| wtf ????) , mutton is not tasty. Chicken starter was crispy ( reason for 2 ⭐) . I didn't like the desert also.
 
 Verdict : Not recommend, skip.",2.0,2018-08-18 15:22:00,0,26,128,8,2018,1,1,221,7
 Yum Yum Tree - The Arabian Food Court,Teja Dandigunta,"The best part about this place is ambiance and seating arrangement, very unique in style and an enjoyable experience especially when visited with friends/family.
@@ -17960,7 +17960,7 @@ However the choco lava was a stunner. Probably the best choco lava in the city.
 Overall a place with great food but ambiance could have been better.",4.0,2019-02-28 20:20:00,12,222,3019,2,2019,0,1,1537,25
 The Tilt Bar Republic,Siddhardh Stunning,"The food and ambience are average . In starters egg fish and chicken are sort of better . Corn and all other veg ingredients are not up to what you expect it to be and moreover the main coarse is the worst to have . The desserts are decent and the fruits are the best .
 I would not recommend a buffet here because the money you spent here goes down the drain think before you go. The moctails they serves was the worst .",2.0,2019-02-26 13:34:00,0,5,26,2,2019,0,1,421,6
-The Tilt Bar Republic,Rashmi (Foodieshots_Hyd),"**** Follow us on Instagram at @foodieshots_hyd ****
+The Tilt Bar Republic,Rashmi (Foodieshots_Hyd),"⭐⭐⭐⭐ Follow us on Instagram at @foodieshots_hyd ⭐⭐⭐⭐
 
 TILT European Bar is a unique bar in Hyderabad that serves a variety of imported beers. While the newly opened micro-breweries struggle to serve good quality beers consistently, TILT fills in the vacuum. It was interesting to note that few of these imported beers are brewed by the Trappist monks. Also apparently the good quality of ingredients that go into brewing of the beers ensure they do not contribute to the dreadful beer belly !
 
@@ -18229,9 +18229,9 @@ Waffel Jenever-The sweet taste of Belgian waffles combined with the athenticity 
 
 Peterman conic cuberdon Jenever-The sweet taste of a smooth crème, the fresh sensation of fruit.
 
-ALCOHOL*
+ALCOHOL⭐
 
-*BEERS*
+⭐BEERS⭐
 
 La Trappe Tripel (Bottle)
 
@@ -18513,7 +18513,7 @@ Raza and Narendar were very helpful.. though they were busy serving rest but ava
 
 Thanks",5.0,2019-05-01 15:53:00,0,2,7,5,2019,0,1,159,1
 The Indi Grill,Madhusudhana Rao Podila,"Good number of options, Tasty food, excellent service and good ambience. Especially I liked the Prawns and Rabbit. My little friends enjoyed thoroughly",5.0,2019-05-01 14:56:00,0,1,1,5,2019,0,1,151,3
-The Indi Grill,Chandra Bhanu Arya,"Great food amazing ambience, fantastic service by ritam, subendu, Narender*, sujit, asraful, sahil*, Bala, Uttam, Inamul, Arif.
+The Indi Grill,Chandra Bhanu Arya,"Great food amazing ambience, fantastic service by ritam, subendu, Narender⭐, sujit, asraful, sahil⭐, Bala, Uttam, Inamul, Arif.
 
 Nice place I would love to visit again.",5.0,2019-04-30 23:53:00,0,2,49,4,2019,0,1,170,2
 The Indi Grill,Arpan Gupta,Had a great time as Indi Grill and Subendhu supported us very well. Will come again . Food is great . Butter chicken was perfect . Good variety of grills.,5.0,2019-04-30 21:46:00,0,5,57,4,2019,0,1,154,5
@@ -18843,7 +18843,7 @@ We went here for a dinner buffet. The food is really delicious and this was the 
 
 Dinner Buffer Menu:
 
-*Starters:
+⭐Starters:
 
 1. Murgh Haryali Tikka
 2. Lahsooni Murgh Tikka
@@ -18855,7 +18855,7 @@ Dinner Buffer Menu:
 8. Corn Tikka
 9. French fries
 
-*Main Course:
+⭐Main Course:
 
 1. Bindi Jai Puri
 2. Yellow Dal Tadka
@@ -18869,14 +18869,14 @@ Dinner Buffer Menu:
 10. Curd Rice
 11. Khow suey
 
-*Salads:
+⭐Salads:
 
 1. Tossed Salad
 2. Crispy Noodles Salad
 3. Kimchi Salad
 4. Grilled chicken salad
 
-*Desserts:
+⭐Desserts:
 
 1. Pineapple Tarts
 2. Chocolate Brownie
@@ -19018,9 +19018,9 @@ We had to complaint to the manager about the same, who agreed with us but did no
 Thoroughly disappointing.
 Ambience is the only saving grace for this place.
 
-Food *
-Ambience ****
-Staff courtesy **",2.0,2018-08-15 16:10:00,0,1,,8,2018,0,0,536,11
+Food ⭐
+Ambience ⭐⭐⭐⭐
+Staff courtesy ⭐⭐",2.0,2018-08-15 16:10:00,0,1,,8,2018,0,0,536,11
 Urban Asia - Kitchen & Bar,Ankit Jain,"A must visit place for their exquisite Asian cuisine ,not just for the dishes they offer but also for the authentic taste of those dishes !
 
 The ambience is so appropriate to aggrevate your hunger and salivate your mouth. One does start feeling the aura of fine dine - for which the crockery and cutlery is the first noticable example.
@@ -19462,7 +19462,7 @@ Good - Top cream layer, Good number of hazelnuts.
 
 Bad - Extremely dry, hardly any cream inside the layers.
 
-For 2900₹ it's extremely disappointing.",1.0,2019-03-29 08:22:00,1,8,3,3,2019,0,0,254,5
+For 2900rupees it's extremely disappointing.",1.0,2019-03-29 08:22:00,1,8,3,3,2019,0,0,259,5
 Labonel,Tumpa Roy,"Customer service is Zero..
 They don’t know how to behave and dude they don’t even have an extra box.
 The entire store is under renovation, how do we know the cookies and cookies are freshly baked..
@@ -19837,7 +19837,7 @@ Overall, it was a good experience for me.",4.0,2018-11-24 13:10:00,3,41,67,11,20
 Driven Cafe,Hari Shankar,"This place is one of the coolest drive-in in financial district. IT peoples can hope for a cool hangout place around the corner,best place to catch your frenchy moments :)
 Coffee lover-Hazelnut",5.0,2018-11-12 14:00:00,2,7,15,11,2018,0,1,194,2
 Driven Cafe,SS,"Please don’t use penne pasta in your Mac and cheese dish. We ordered cheese toast and brownie as well, but the food was not up to the mark. The ambience was good though.",1.0,2018-11-11 10:58:00,0,3,12,11,2018,1,0,169,3
-Driven Cafe,Seema Iyengar,We ordered cold coffee and capacuino. The cold coffee wasn't cold and the capacuino wasn't hot. Disappointed with the temperature of the coffees served. I would give a 4* for its ambience. Received a very small piece of chilly cheese toast. CCD serves better coffees.,3.0,2018-11-11 08:35:00,1,7,62,11,2018,1,0,267,6
+Driven Cafe,Seema Iyengar,We ordered cold coffee and capacuino. The cold coffee wasn't cold and the capacuino wasn't hot. Disappointed with the temperature of the coffees served. I would give a 4⭐ for its ambience. Received a very small piece of chilly cheese toast. CCD serves better coffees.,3.0,2018-11-11 08:35:00,1,7,62,11,2018,1,0,267,6
 Driven Cafe,Charushila Biswas,"Super fancy ambience and cost but totally not worth the hype. We ordered:
 ▪Mint mocha - which tasted OK
 ▪Chocolate bomb - tasted like crushed oreos with butter and meagre amount of chocolate.
@@ -19865,7 +19865,7 @@ Driven Cafe,Karan Parseja,"Overrated and Hyped!
 This place is known for its rusty garage-like interiors, where you can rent some top notch automobiles. The Cafe in ""Driven Cafe"" is rather disappointing, staff isn't very friendly, nor very observant to details. They ask for extra money for everything even when the coffee costs similar to expensive coffee chains. I had Mocha and Coffee Crunch, both of which were average at its best and weren't something that I would remember.",2.0,2018-10-28 15:44:00,7,49,716,10,2018,1,1,452,5
 Driven Cafe,US,"Nice ambience and helpful staff.
 Pizza is also good . The quality of cheese in pizza can be slightly better I feel. Coffee even with an extra shot didn't give a strong aroma though",3.0,2018-10-25 06:49:00,0,46,39,10,2018,0,0,181,4
-Driven Cafe,Divya Reddy,"Ambience is quite good and this place is nearby to my office. I was disappointed with the food though. Certainly , dint reach to my expectations and the blue berry cheese cake that I had in other cafe's was *wow* , but the one here was bland . The shakes were good compared to the rest that I ordered. Service was good so I would give a 4/5 . Food - 2/5 Ambience - 4/5",3.0,2018-10-19 15:50:00,1,10,9,10,2018,0,1,368,6
+Driven Cafe,Divya Reddy,"Ambience is quite good and this place is nearby to my office. I was disappointed with the food though. Certainly , dint reach to my expectations and the blue berry cheese cake that I had in other cafe's was ⭐wow⭐ , but the one here was bland . The shakes were good compared to the rest that I ordered. Service was good so I would give a 4/5 . Food - 2/5 Ambience - 4/5",3.0,2018-10-19 15:50:00,1,10,9,10,2018,0,1,368,6
 Driven Cafe,Ashish,"Driven cafe is the new age CCD.
 Govthere, chill as much as you want and call for one of their low standard of coffee.
 The brew isn’t great and the veg servings aren’t good enough for a meal!
@@ -19923,7 +19923,7 @@ So if you are craving for a coffee in the middle of the night then this is the p
 So a must visit place !! 😊😊",4.0,2018-08-13 12:02:00,0,17,37,8,2018,0,0,511,11
 Driven Cafe,AbstractFoodie,"Nice place. Coffee is nice. Stays open till midnight which is great for people who work late night and are in need for a good coffee. We had double chocolate decadent which is ok, as we had better before. Plus it doesn’t look like it’s made fresh. Coffee was nice as it can get better.",3.0,2018-08-13 00:18:00,1,76,113,8,2018,0,0,285,6
 Driven Cafe,Soumya Chatterjee,I was really impressed with the ambience and the simple menu options available! They say rightly that simplicity attracts the most. I was able to spend some quality time here in the evening starting with coffee and ended with desert! Will definitely plan to visit again!,4.0,2018-08-12 01:15:00,0,24,90,8,2018,1,0,270,4
-Driven Cafe,Bhoom,Omg I won't forget this place forever. I usually visit this place at least once a week. All thanks to my coworker(s) who makes my visit more memorable and refreshing. This place serves decent coffees and frappes. I would give 5* for ambience and 4* for coffee and food. Being a coffee freak couldn't resist to come down to this place.,5.0,2018-08-06 21:56:00,0,23,18,8,2018,0,1,334,6
+Driven Cafe,Bhoom,Omg I won't forget this place forever. I usually visit this place at least once a week. All thanks to my coworker(s) who makes my visit more memorable and refreshing. This place serves decent coffees and frappes. I would give 5⭐ for ambience and 4⭐ for coffee and food. Being a coffee freak couldn't resist to come down to this place.,5.0,2018-08-06 21:56:00,0,23,18,8,2018,0,1,334,6
 Driven Cafe,Abhishek Kumar Singh,This is a good place to have some quick food etc and you can find all varieties and prices are also not much. Overall it’s a good place. Ambience could be better but given the nature of business it looks good.,4.0,2018-08-02 20:16:00,0,15,55,8,2018,0,1,209,3
 Driven Cafe,Manish,its,1.0,2018-07-28 15:28:00,0,2,4,7,2018,1,1,3,1
 Driven Cafe,Mhicaela Martin Galang,"The coffee was really nice. I ordered Cafe Latte with Caramel, Hazelnut, Irish and Chocolate I believe. 😁",5.0,2018-07-27 18:15:00,0,13,7,7,2018,0,0,105,3
@@ -20098,7 +20098,7 @@ MUST RECOMMENDED",5.0,2019-04-14 17:30:00,2,20,4,4,2019,1,0,267,1
 Faasos,Sumit,"The Egg wrap here is made by unprofessionals. The egg wrap's omlette was burnt as hell and I guess they were too lazy to replace it knowing it was burnt and sent me those wraps
 . order (id: 1178102975) on Zomato Order.",1.0,2019-04-11 12:41:00,1,1,,4,2019,0,0,219,3
 Faasos,Pradeepti Sharma,"Ordered the paneer wraps, one with the cheese, and other with a tangy masala. N a paneer rice bowl too. Paneer treat to myself. The wraps were perfectly made, with the covering prepared well, and the stuffing was mixed well with the right amount of sauces and cheese, giving a juiciness to the wrap. The rice bowl was equally yummy. With rice being cooked well, fragrant with exotic herbs and spices giving a deep ochre n shades of olive green look to the dish. Overall a nice place to order from n worth the money. Recommended 😊",5.0,2019-03-14 21:22:00,0,72,1932,3,2019,0,1,529,8
-Faasos,Pravin Fengade,Very bad experience...i got incorrect order delivered...I ordered for smoked butter chicken combo under royal indian mean which costs ₹290...but i was delivered smoked butter chicken combo under quick meal which costs ₹190...and it was missing paratha and gulab jamun...when I called restaurant they didn’t agree to send me correct order and asked me to contact zomato which I couldn’t get in touch with..finally ended up paying more for what i was delivered... and wouldn’t recommend to anyone based on my experience.,1.0,2019-03-03 14:21:00,1,3,1,3,2019,1,1,518,1
+Faasos,Pravin Fengade,Very bad experience...i got incorrect order delivered...I ordered for smoked butter chicken combo under royal indian mean which costs rupees290...but i was delivered smoked butter chicken combo under quick meal which costs rupees190...and it was missing paratha and gulab jamun...when I called restaurant they didn’t agree to send me correct order and asked me to contact zomato which I couldn’t get in touch with..finally ended up paying more for what i was delivered... and wouldn’t recommend to anyone based on my experience.,1.0,2019-03-03 14:21:00,1,3,1,3,2019,1,1,528,1
 Faasos,Aniket Kanwale,food was good but as compared to price quantity was very less,5.0,2019-03-03 01:04:00,0,3,,3,2019,1,0,61,1
 Faasos,उर्वी वशिष्ठ,"Wraps here are really yummy! As cheap as chole wrap and as expensive as paneer wrap! Be it any level of the wraps, it is yummy!
 Moving on to rice, rice feasts are good to go and is very filling too!",4.0,2019-02-13 13:11:00,1,3,3,2,2019,0,1,199,4
@@ -20284,7 +20284,7 @@ Faasos,Sonofepicurus,Faasos is a good option to address your quick hunger pangs 
 Faasos,Shravya Gunipudi,"My friends and I order wraps from here all the time. Consistent quality and good delivery. The packaging is always great.
 
 I recommend the tea and the jumbo rice bowls.",4.0,2018-08-02 18:21:00,0,193,1273,8,2018,0,0,170,4
-Faasos,Harikiran Gupta,"*zomato food review program
+Faasos,Harikiran Gupta,"⭐zomato food review program
 I have ordered for Cheesy chicken buna wrap and
 Double cheese meat ball wrap. The quantity was good enough loved the meat ball wrap food was not hot by the time it was delivered.",3.0,2018-08-01 16:50:00,0,63,134,8,2018,0,0,208,2
 Faasos,Abhinav Tiwari,"Tea, as always was good .. packaging can be better ... and sad , it’s late by 15 mins.
@@ -20705,7 +20705,7 @@ My husband placed the order for us,a mushroom omelette for me and a roasted mush
 
 Would recommend this place to everyone for sure. I for sure am going back again for the bagels and coffee!",5.0,2018-07-21 14:27:00,2,14,5,7,2018,1,1,1087,11
 The Old Madras Baking Company,Samiksha Agarwal,"It's a nice, cozy cafe and has a pleasant ambience. I tried the red velvet pastry here, decent enough I would say! Coffees at the place are also worth a try!",4.0,2018-07-15 23:37:00,1,10,,7,2018,1,1,157,3
-The Old Madras Baking Company,Vasanthi Raj,Filter Coffee Croissant cravings get satiated here. It hums with a beat synced with mine. Tasting one at a time to control calories. They have got a wide array of goodies. Custard bun banana cake Danish etc etc. Variety of cheese preserves pickles. If they can get their over the door air blowers to keep the flies away... I would have given 5*.,4.0,2018-07-15 12:50:00,0,12,4,7,2018,1,0,345,7
+The Old Madras Baking Company,Vasanthi Raj,Filter Coffee Croissant cravings get satiated here. It hums with a beat synced with mine. Tasting one at a time to control calories. They have got a wide array of goodies. Custard bun banana cake Danish etc etc. Variety of cheese preserves pickles. If they can get their over the door air blowers to keep the flies away... I would have given 5⭐.,4.0,2018-07-15 12:50:00,0,12,4,7,2018,1,0,345,7
 The Old Madras Baking Company,Prasanth,Taste was good but the croissant became moist because it was packed along with omlette. please ensure appropriate packing.,4.0,2018-07-15 09:04:00,0,1,1,7,2018,1,0,122,2
 The Old Madras Baking Company,Allan Rai,"It's a calm place to have breakfast at, they open as early as 7am in the morning. You can see them bake fresh bread, everything is fresh here. The coffee is amazing here. A go to place for a nice start!",5.0,2018-07-15 08:02:00,0,5,5,7,2018,1,0,202,4
 The Old Madras Baking Company,Sharada Potluri,"the edd didn't have any taste, the croissant was not crispy. instead of packing both in one big box, you can use 2 small ones so that the croissant remains crispy. total waste of money for this order",1.0,2018-07-14 11:15:00,0,16,131,7,2018,1,0,199,3
@@ -21026,7 +21026,7 @@ Ambience : 4/5
 Food : 3/5
 Hospitality was good . They treated us as royal guest 😀",3.0,2019-04-13 10:27:00,3,47,60,4,2019,1,0,636,11
 Khaan Saab,Krushikal,This restaurant is not for people who like dum biryani. Its a royal dining restaurant with that kind of interiors and biryani tastes good as well,3.0,2019-04-11 16:43:00,0,5,2,4,2019,0,0,145,2
-Khaan Saab,Surya Tej Kanuri,"*no one is a royal guest..*
+Khaan Saab,Surya Tej Kanuri,"⭐no one is a royal guest..⭐
 
 Food - 2/7
 Ambiance - 3/7
@@ -21391,7 +21391,7 @@ Crew members- Friendly and did their service well.
 Overall experience was good, as it provides good variety of items in a pocket friendly price.",4.0,2018-08-14 17:13:00,4,48,67,8,2018,0,0,1004,18
 Olive Garden,Aravinda Sai Gadamsetty,best delivery,5.0,2018-08-12 20:53:00,0,9,1,8,2018,1,1,13,1
 Olive Garden,Pavankumar,good,5.0,2018-08-11 23:19:00,0,1,1,8,2018,1,1,4,1
-Olive Garden,ARUGULLA PRAVEEN KUMAR,,3.0,2018-08-09 23:25:00,0,1,1,8,2018,0,1,3,1
+Olive Garden,ARUGULLA PRAVEEN KUMAR,,3.0,2018-08-09 23:25:00,0,1,1,8,2018,0,1,0,0
 Olive Garden,Sneha Gupta,good food,4.0,2018-08-05 12:41:00,0,10,119,8,2018,1,0,9,1
 Olive Garden,Chanda,"Ordered veg thali for mother , she enjoyed it but the quantity for bit low , quality was good , price also bit high , will order once again some other dishes too",4.0,2018-08-03 15:22:00,0,106,763,8,2018,0,1,161,1
 Olive Garden,Age Of Foodies (Suraj Karambe),"New Entry in Zomato Gold-
@@ -21542,7 +21542,7 @@ when coming to quantity it is too much less",1.0,2018-12-30 21:59:00,0,1,1,12,20
 Tandoori Food Works,Deepak Rajana,"Chiken is good but Biryani is too oily. More than actual customers there is huge crowd of delivery guys. Thali is not available. So, we must order kheer seperatly",2.0,2018-12-29 22:17:00,0,19,5,12,2018,1,1,162,4
 Tandoori Food Works,Jaw Creations,Ordered a chicken biriyani. Fast delivery and taste good. The price is not that high it's all within the range. The spices were just right on chicken piece but a little less in rice,4.0,2018-12-22 19:23:00,0,1,,12,2018,1,0,181,4
 Tandoori Food Works,Foodie Chaudhary,"The first time I ordered their Chicken Tikka Biryani, I became fan of it. Loved it so much that I recommended it to my friends and colleagues as well. The second time I ordered it, the quantity was very less compared to the first time and tasted different as well. I've got the same sort of feedback from friends also, that their food is inconsistent in taste, quantity and its a hit or miss. I would sincerely suggest them to be consistent in quality and quantity both as they've got good potential.",3.0,2018-12-14 18:50:00,1,118,2042,12,2018,0,0,500,5
-Tandoori Food Works,Abhijit Benerjee,"The food here is just amazing !!! 5*
+Tandoori Food Works,Abhijit Benerjee,"The food here is just amazing !!! 5⭐
 Hope to see more branches opening up!!
 I’ve tried kebabs and curry and rotis it’s just toooo good!! I definitely recommend this place",5.0,2018-12-09 23:24:00,0,41,365,12,2018,1,1,172,5
 Tandoori Food Works,Mohit Ajwani,Food is always great at Tandoori Food Works. This restaurant was recommended to me by a friend. I really love all the dishes they serve and I would recommend everyone to definitely try dining or ordering from here. Paneer Jahangiri was really great. Thanks team,5.0,2018-12-02 17:51:00,0,46,84,12,2018,1,0,261,5
@@ -21582,7 +21582,7 @@ Tandoori Food Works,Madhuri,Tandoori Chicken Tikka briyani.... Chicken Tikka is 
 Tandoori Food Works,Asif Nawaz KJ,Had ordered Chicken Tandoori and Fish Tikka.. Extremely disappointed with Fish Tikka.. Fish used was stale and tasted worse.. packaging was ridiculous (was charge 20 bucks for packaging though).. never ever would order again from this pathetic place..,1.0,2018-09-08 15:32:00,0,1,,9,2018,1,1,251,1
 Tandoori Food Works,Gnaneswar Seshu,I don't like spicy food but after eating biryani here I feel like it would be good if it is spicy,2.0,2018-09-06 23:02:00,0,2,1,9,2018,0,1,97,1
 Tandoori Food Works,Umeshnayak1239,good,5.0,2018-08-29 21:18:00,0,2,,8,2018,0,1,4,1
-Tandoori Food Works,Hari,Ordered Chicken tikha & chicken tandoori biryani  food very oily also requested for less masala still they did not take note I think restaurant guys are very interested in making money than quality. Delivery was quick and good 5* for zomato delivery.,1.0,2018-08-25 11:45:00,0,1,,8,2018,1,0,250,2
+Tandoori Food Works,Hari,Ordered Chicken tikha & chicken tandoori biryani  food very oily also requested for less masala still they did not take note I think restaurant guys are very interested in making money than quality. Delivery was quick and good 5⭐ for zomato delivery.,1.0,2018-08-25 11:45:00,0,1,,8,2018,1,0,250,2
 Tandoori Food Works,Paneeth Kumar,Good,5.0,2018-08-21 23:42:00,0,1,,8,2018,0,1,4,1
 Tandoori Food Works,Ambika,"The food was too awesome and quick. Chicken was finger licking good.... Served as hot and too quickly and still had the best taste.😋
 Paneer tikka could improve.",4.0,2018-08-19 18:54:00,0,5,8,8,2018,1,0,161,2
@@ -21791,7 +21791,7 @@ Al Saba Restaurant,Ram Amravanshi,it's nice..,5.0,2018-07-25 23:08:00,0,0,1,7,20
 Al Saba Restaurant,Chaithanya Krishna,super,5.0,2018-07-22 22:16:00,0,2,1,7,2018,1,1,5,1
 Al Saba Restaurant,Zain,"The food is ok. Could be better. But coming to customer service, I rate negative. The cashier’s behaviour is utterly distasteful. Constantly talking over phone without giving a rats ass to the customer. Behaviour of the restaurant managers doesn’t make the place seem safe especially when you’re with a lady. Very uncomfortable feel. Avoid it.",1.0,2018-07-22 12:56:00,0,23,17,7,2018,1,0,343,8
 Al Saba Restaurant,Raja,good n on time,5.0,2018-07-20 23:10:00,0,1,,7,2018,0,1,14,1
-Al Saba Restaurant,Suresh,,5.0,2018-07-20 22:42:00,0,1,,7,2018,0,1,3,1
+Al Saba Restaurant,Suresh,,5.0,2018-07-20 22:42:00,0,1,,7,2018,0,1,0,0
 Al Saba Restaurant,Pradeep Kumar,Assum service,5.0,2018-07-20 13:39:00,0,3,9,7,2018,0,1,13,1
 Al Saba Restaurant,Mohsin Ali,happy,5.0,2018-07-08 14:26:00,0,4,3,7,2018,1,1,5,1
 Al Saba Restaurant,Anwarsharif786,Waiters are very Rude and charge extra always check menu card before giving money to Waiters and No cleaness . Management should be strict with the waiters.,1.0,2018-07-06 23:25:00,0,1,,7,2018,0,1,156,2
@@ -21990,9 +21990,9 @@ This is not a place where you can sit with your friends and have a bite I recomm
 Each burger at this place costs around Rs.150-Rs.200.
 .
 .
-Price 150₹
+Price 150rupees
 Taste •8/10
-Ambience •7/10",4.0,2018-10-09 01:13:00,8,54,63,10,2018,0,0,600,7
+Ambience •7/10",4.0,2018-10-09 01:13:00,8,54,63,10,2018,0,0,605,7
 GD's,Karandeep,"Big Bang
 Three layers of BBQ chicken strips, a cheese slices and some lettuce. It's a nice tasting marinade but if only they didn't over cook it.
 You keep the chicken juicy for that's what makes a burger. You'll need someone who understands the timing and temperature to keep the chicken juicy
@@ -22743,8 +22743,8 @@ The Chocolate Room,Ravi Kant,Good combo,5.0,2018-05-13 00:30:00,0,2,34,5,2018,1,
 The Chocolate Room,Kashish Israni,Good,5.0,2018-05-10 07:43:00,0,2,13,5,2018,0,0,4,1
 The Chocolate Room,Amit Hansani,"The chocolate room as name suggests should have variety of chocolate flavour products. But variety is quite less. Very few cakes and drinks. The place should be only place for chocolates and its products. So live upto your name.
 
-Food - 3.5*
-Ambience: 4.5*
+Food - 3.5⭐
+Ambience: 4.5⭐
 
 Closes at 12 am, hence good place for late night cravings.",4.0,2018-05-07 20:21:00,0,6,58,5,2018,0,1,321,6
 The Chocolate Room,Mohan Kaithi,no that tasty it's like 20 rs chocolate shake!,1.0,2018-05-07 17:52:00,0,5,3,5,2018,0,0,46,1
@@ -22796,7 +22796,7 @@ Taste wise : 4.5/5
 Price: 5/5
 Ambience: 4/5
 Allover: 4.8/5 (a sure visit)",5.0,2019-05-22 13:02:00,7,25,63,5,2019,0,1,1486,25
-American Wild Wings,Ammar KanchWala,"*Visit By Invite*
+American Wild Wings,Ammar KanchWala,"⭐Visit By Invite⭐
 
 Located in a buzy spot, this joint has definitely some good food to offer.
 
@@ -23031,27 +23031,27 @@ The walls here are plastered with designer wall papers which adds life to this p
 .
 Food :
 Salad :
-*caesar salad : this was all with veggies especially cold lettuce , paneer pieces , and others.
-*asian fried chicken salad : it was more of cabbage and fried chicken with fried bread pieces here and there.
+⭐caesar salad : this was all with veggies especially cold lettuce , paneer pieces , and others.
+⭐asian fried chicken salad : it was more of cabbage and fried chicken with fried bread pieces here and there.
 .
 Mojito:
-*orange mojito: this tasted bit soothing but was little too sweet , good one for summers to quench your thirst.
-*lemonade : this was minty and cool .
-*strawberry mojito: it tasted more like a strawberry.
+⭐orange mojito: this tasted bit soothing but was little too sweet , good one for summers to quench your thirst.
+⭐lemonade : this was minty and cool .
+⭐strawberry mojito: it tasted more like a strawberry.
 .
-*Bean wings : these are the best anyone could have at this place . Because the sauces are really apt for their names .
+⭐Bean wings : these are the best anyone could have at this place . Because the sauces are really apt for their names .
 Taxas BBQ, Amazon wild , original hot- really hot which burns your mouth , Pattaya Thai -it was sweet . All these sauces and even other sauces taste so good with the chicken wings .
 .
-*veg burger : Pattie made with veg , layered the bun with cheese , veggies which tasted good .
-*mogli Nuggets : these were the tiny nuggets which indeed tasted so good , best one to just munch on .
+⭐veg burger : Pattie made with veg , layered the bun with cheese , veggies which tasted good .
+⭐mogli Nuggets : these were the tiny nuggets which indeed tasted so good , best one to just munch on .
 
 .
 Rice :
-*chicken fried rice : tasted strong yet was tasty.
-*veg corn rice : it was assorted in veggies and the corn in it added more flavour to it.
-*veg biryani : Best one to have at this place , tasted mild , the rice was flavoured enough .
+⭐chicken fried rice : tasted strong yet was tasty.
+⭐veg corn rice : it was assorted in veggies and the corn in it added more flavour to it.
+⭐veg biryani : Best one to have at this place , tasted mild , the rice was flavoured enough .
 .
-*chicken biryani : good one to get parcel or even to have at this place . Tasted quite good .
+⭐chicken biryani : good one to get parcel or even to have at this place . Tasted quite good .
 .
 .
 Do follow us on Instagram Foodee_ambient_hyd .",4.0,2019-05-12 12:47:00,24,86,1206,5,2019,1,0,1770,28
@@ -23274,7 +23274,7 @@ Domino's Pizza,Malar Madhav Rao,late an food is cold an bad. Delivery boys shd c
 Domino's Pizza,Naresh N,too late,1.0,2018-08-11 17:46:00,0,1,1,8,2018,1,0,8,1
 Domino's Pizza,Tanya Gupta,this time pizzas were not tasteful,3.0,2018-08-11 14:57:00,0,1,,8,2018,1,1,34,1
 Domino's Pizza,Shikha Priya,Delivered late and cold,1.0,2018-08-11 12:46:00,0,1,1,8,2018,1,0,23,1
-Domino's Pizza,Sayan Gupta,,5.0,2018-08-09 21:41:00,0,2,2,8,2018,0,1,3,1
+Domino's Pizza,Sayan Gupta,,5.0,2018-08-09 21:41:00,0,2,2,8,2018,0,1,0,0
 Domino's Pizza,Sivasai Vissamsetti,tq and super fast delivary,5.0,2018-08-07 23:15:00,0,4,1,8,2018,0,1,26,1
 Domino's Pizza,Gourmet Hunter,"This store maintains the quality & brand name of Domino's. 
 Their burger pizza is great in taste. Its perfect balance of spices & the bland bread taste.
@@ -23394,7 +23394,7 @@ Very bad service by Zomato they don't even have courtesy.
 This is by far the worst service by any service provider by all means.
 
 I have the entire conversation on phone recorded with their support team will give it in fb and FB pages.",1.0,2018-09-04 02:05:00,0,1,4,9,2018,0,0,383,6
-Mohammedia Shawarma,Mahender Asampalli,"I just Ordered a Chicken Shawerma , is this what you people call a shawerma!!! it was VEG OR NON VEG do you atleast know it it was full of CABBAGE and nothing else!!!!!!!!! the most HORRIBLE  shawerma i ever had!!! i jst THREW THEM IN GARBAGE!!!!! Simply its the WORST sharwarma i have ever ate!!!! do you thik it was a EATABLE !!! , paid full payment but I am not satisified with the shawarma.., IT WAS A COMPLETE WASTE OF MONEY!!!!! FRUST N never going to be order anything from UR'S (Mohammedia Shawarma) !!!!!! , So please waste Our money and Time !!!!! * 1 Rating is also Waste for it!!!",1.0,2018-09-03 04:18:00,0,1,2,9,2018,0,0,592,14
+Mohammedia Shawarma,Mahender Asampalli,"I just Ordered a Chicken Shawerma , is this what you people call a shawerma!!! it was VEG OR NON VEG do you atleast know it it was full of CABBAGE and nothing else!!!!!!!!! the most HORRIBLE  shawerma i ever had!!! i jst THREW THEM IN GARBAGE!!!!! Simply its the WORST sharwarma i have ever ate!!!! do you thik it was a EATABLE !!! , paid full payment but I am not satisified with the shawarma.., IT WAS A COMPLETE WASTE OF MONEY!!!!! FRUST N never going to be order anything from UR'S (Mohammedia Shawarma) !!!!!! , So please waste Our money and Time !!!!! ⭐ 1 Rating is also Waste for it!!!",1.0,2018-09-03 04:18:00,0,1,2,9,2018,0,0,592,14
 Mohammedia Shawarma,Mohammedali.mursaleen,awesome,5.0,2018-09-03 03:18:00,0,1,1,9,2018,0,0,7,1
 Mohammedia Shawarma,Nadeem.ahmed0121,Taste should improve as it was not good in taste also everytime i order from here they don't give tomato ketchup.There was an instance happend last time when I ordered they didn't gave me extra mayo which I ordered.,2.0,2018-08-26 14:39:00,0,1,1,8,2018,1,1,215,1
 Mohammedia Shawarma,Esha Jain,"i asked for ketchup... the packet is empty...
@@ -23940,7 +23940,7 @@ It has 2 screens and 5 TVs for sports viewing 👍
 
 Service could've been better, the staff seemed quite confused and unresponsive sometimes.
 
-*The buffet offers great value only If you use the offers on Dineout*
+⭐The buffet offers great value only If you use the offers on Dineout⭐
 
 Overall:
 Food:3.75/5
@@ -24144,7 +24144,7 @@ About food - It's really delicious , well managed , so many options you can foun
 Kindly try once RASAM. it's very tasty .
 
 Dear Radisson Group - Kindly Appreciate both the Staff.
-5*
+5⭐
 
 Thanks & Regards
 Amit Singh
@@ -24438,9 +24438,9 @@ Collage - Hyatt Hyderabad Gachibowli,Harshvardhan Agarwal,Extremely expensive fo
 Collage - Hyatt Hyderabad Gachibowli,Vnikhil Reddy,"It was an amazing place , I have been for there Sunday brunch the best part was they were serving ketel one Vodhka 😂 , they have many good items to try u must try there lamba curry it was amazing & pav bhaji . Ambiance was very peaceful .",4.0,2018-11-19 21:34:00,1,67,185,11,2018,0,1,238,2
 Collage - Hyatt Hyderabad Gachibowli,Mrinalini,"I have visited this place for team lunch.. We opted for lunch buffet.
 High expectations but all waste.
-Ambience - 5*
-Food - 3 *
-Buffet spread - 2.5*
+Ambience - 5⭐
+Food - 3 ⭐
+Buffet spread - 2.5⭐
 
 Highly disappointed with the options available in buffet..
 Hardly 7-8 options for both veg and non veg
@@ -24507,7 +24507,7 @@ Ambience:4
 Food: 3.5
 Service:4.5",4.0,2018-07-21 00:41:00,0,51,34,7,2018,1,0,320,7
 Collage - Hyatt Hyderabad Gachibowli,Thejas Simon,"I happened to stay in Hyatt Gachibowli during one of my visits to Hyderabad. The hotel gives you a feel of a resort by the open space available and the jogging track around the hotel with trees on both sides. The Sunday Brunch that they organize was amazing and had a good variety of dishes from multiple different cuisines. The breakfast buffet meets the standard as well. The staff here are extremely courteous and proactive. Although they don't have a wide spread in room service menu, the steak and smoked salmon was extremely impressive.",4.0,2018-07-19 09:16:00,0,37,289,7,2018,0,0,542,6
-Collage - Hyatt Hyderabad Gachibowli,Swati,"Went for a Sunday bruch and compared to other places of the same league the staff is definitely the most friendliest 😀, but the food options are the bottom most on my list. The food is good definitely, but for a Sunday brunch the options are extremely limited compared to what's being offered around. I am thankful to the staff for pulling together a cheese platter just to accompany my wine and for that I took them to 4 from my initial 3* . Sometimes the smiles and the courtesy make a lot of difference and might want me to visit again. The beverage (alcohol 😋) menu is very limited , does not match back to others - I hope they match it up. We had to separately order drinks as there was nothing on their selection that we drank !! 😋. And before I forget , their dessert bar is good !",4.0,2018-07-15 16:44:00,3,19,22,7,2018,1,0,788,9
+Collage - Hyatt Hyderabad Gachibowli,Swati,"Went for a Sunday bruch and compared to other places of the same league the staff is definitely the most friendliest 😀, but the food options are the bottom most on my list. The food is good definitely, but for a Sunday brunch the options are extremely limited compared to what's being offered around. I am thankful to the staff for pulling together a cheese platter just to accompany my wine and for that I took them to 4 from my initial 3⭐ . Sometimes the smiles and the courtesy make a lot of difference and might want me to visit again. The beverage (alcohol 😋) menu is very limited , does not match back to others - I hope they match it up. We had to separately order drinks as there was nothing on their selection that we drank !! 😋. And before I forget , their dessert bar is good !",4.0,2018-07-15 16:44:00,3,19,22,7,2018,1,0,788,9
 Collage - Hyatt Hyderabad Gachibowli,Vinay Kumar,"Service - good
 Food- very bad, no taste at all
 
@@ -24570,7 +24570,7 @@ Follow me @jolly_belly_ on instagram 😃
 
 Ambience 5/5
 Food 5/5
-*Costly ofcourse, its HYATT !!!",5.0,2018-04-12 14:11:00,3,34,629,4,2018,0,1,444,11
+⭐Costly ofcourse, its HYATT !!!",5.0,2018-04-12 14:11:00,3,34,629,4,2018,0,1,444,11
 Collage - Hyatt Hyderabad Gachibowli,Anupam Agarwal,"Sometimes the most unexpected evenings can turn out to be the best one. Me and my wife both food lovers don't enjoy 5 star buffets and hence we avoid.
 We ended up here as someone dear gifted us a couple dinner voucher and with just few weeks left for its validity we decide to give the place a visit on Thursday evening.
 Closeby to our office we reached the place located in Nanakramguda just near the Amazon office and opposite Waverock.
@@ -24641,7 +24641,7 @@ But ambiance is very good, it's a pleasant, peaceful.
 Service is also very good they are very polite.",3.0,2017-09-01 15:11:00,0,2,1,9,2017,0,1,313,5
 Collage - Hyatt Hyderabad Gachibowli,Suyash Dhandhania,"Was visiting my in laws for the first time. To celebrate the occasion we came here after more than hour long drive. And oh boy, did this place disappoint!? Not only did they lack the basic services like serving Papad and water in the beginning, they made blunders like serving Long Island Ice tea to a pregnant woman instead of the lemon ice tea that she ordered. We were a group of 11 people and were seated in a private room. We had to keep going out of the room to call the waiters only to be responded with an arrogant attitude, especially by the restaurant manager Parmeshwar from Lucknow. Each order took a long time to come and was served cold. And when I say served, I don't mean served by them. Oh no, the waiters simply kept all the dishes on one side of the table and left it to us to serve ourselves. Despite of this, on lack of better judgment, we made a horrible mistake of ordering the dessert which we just left after a bite because it was that bad. Needless to say, our night was ruined and to end it all, just when we thought it can't get any worse, they over billed us. We spent 20 mins to get it corrected. The icing on the cake was, the charged us for the Long Island Ice Tea as well 😂😂.
 Please avoid this place at all costs. And you'll be saving a LOT! 😅 You'll also save yourselves from mosquito bites because they'll refuse to provide you with a mosquito repellent when you ask for it.
-P. S- If you're a cheese enthusiast, please don't make the same mistake of ordering the cheese platter as we did. For ₹600, they served us stale cheese with few almonds, crackers and 2 apricots. Whoever originally came up with this dish, must have shifted somewhere n his/her grave when these people had the audacity to serve something like this to us.",1.0,2017-08-19 17:11:00,0,92,495,8,2017,1,0,1764,19
+P. S- If you're a cheese enthusiast, please don't make the same mistake of ordering the cheese platter as we did. For rupees600, they served us stale cheese with few almonds, crackers and 2 apricots. Whoever originally came up with this dish, must have shifted somewhere n his/her grave when these people had the audacity to serve something like this to us.",1.0,2017-08-19 17:11:00,0,92,495,8,2017,1,0,1769,19
 Collage - Hyatt Hyderabad Gachibowli,Jerry,One great place for breakfast ! The buffet spread Is great and the service is impeccable! Loved everything on the menu! Had memorable time here! Happy Eating! :),5.0,2017-08-14 20:32:00,0,123,230,8,2017,0,1,161,6
 Collage - Hyatt Hyderabad Gachibowli,Abdull Ghan,Awesome hotel.. service is state of the art.. really enjoyed my stay here.. I was personally received by Chef Amit patra a wound full chef who made our stay worthwhile.,5.0,2017-07-19 14:59:00,0,1,2,7,2017,0,1,168,1
 Collage - Hyatt Hyderabad Gachibowli,Kunal Sanghvi,"Positive:
@@ -25053,7 +25053,7 @@ Everything was soo good...loved the soyabean paste gravy and ssam was pretty goo
 Zing's Northeast Kitchen,Sai Kiran Bolloju,"Forget the 4 or 5 rating given for this restaurant. This place is crap. I will say except plating, nothing will please your appetite. Customer service, I will give -10. For 15 tables, it a single guy who was taking orders. In between all this, he is also the one who is at bill desk too. Believe me they didn't served water until we are forced to ask for.
 
 Customer service - they don't deserve a rating for it.
-Food - 1*",1.0,2018-12-01 09:59:00,0,4,26,12,2018,1,0,424,9
+Food - 1⭐",1.0,2018-12-01 09:59:00,0,4,26,12,2018,1,0,424,9
 Zing's Northeast Kitchen,Heavenly Nan,"The restaurant is a nice decent place and pocket friendly too. Food taste good but I personally think there are too much soya sauce mostly in everything .The menu is mainly Korean with very few NE food in their main course section(for people who really want to experience northeastern food I’d suggest that the main course section might be helpful for you). Over all, m happy that I found a place to hop in whenever I feel like having pork or beef.",4.0,2018-11-29 19:02:00,0,2,1,11,2018,0,0,448,3
 Zing's Northeast Kitchen,Arun.geetesh,"It's a fairly simple restaurant, nothing too fancy, with some parking available right in front of restaurant. However the climb is way too steep. Has pork and beef on menu, a great addition to Kondapur. Food is good, portions are small, but that's by Hyderabad standards, otherwise one dish is enough for one adult. We went on a Sunday and we had to wait for close to one hour to get all items ordered, maybe we will try it on a weekday, if waiting time still is that long, it needs serious improvement. Overall a new addition for niche crowd.",4.0,2018-11-26 11:55:00,0,4,3,11,2018,0,0,543,6
 Zing's Northeast Kitchen,Abhishek Sarkar,"Best pocket friendly place in and around Gachibowli if you are a fan of South Korea, and North Eastern cuisine. And, yes there's a lot of love in cooking Korean food and every morsel tastes wonderful. Small place, good range of menu and pocket friendly price. Must try - Smoked Pork Ribs, Pork Bosam , Naga Steamed Fish and Chicken Ramyun Noodles.",4.0,2018-11-25 16:28:00,4,122,438,11,2018,1,0,347,4
@@ -25151,7 +25151,7 @@ Dunkin' Donuts,Sai Datta M,"Though the brand's famous for donuts, I'd have to st
 Coming to their staple food, they are great as well. They got tons of options, so not possible to review all of them here. But, I would highly suggest having their Death by Chocolate.
 
 And, their packaging is great. I loved the boxes they provided!",5.0,2018-11-07 20:52:00,3,97,174,11,2018,0,1,608,10
-Dunkin' Donuts,TheUtkarsh91,"Had ordered a pack of 6 donuts(mango craze, very very strawberry,Boston creme, eclairs*2 and a rainbow pop). All I got were chocolate donuts!! Never ordering from here again!",1.0,2018-11-07 03:54:00,0,1,1,11,2018,0,0,174,3
+Dunkin' Donuts,TheUtkarsh91,"Had ordered a pack of 6 donuts(mango craze, very very strawberry,Boston creme, eclairs⭐2 and a rainbow pop). All I got were chocolate donuts!! Never ordering from here again!",1.0,2018-11-07 03:54:00,0,1,1,11,2018,0,0,174,3
 Dunkin' Donuts,Fit Foodie,"Food - 5
 VFM - 3.5
 Packing - 3.5
@@ -25436,14 +25436,14 @@ Desi Bytes,Rupsa Sinha,felt like having home made chicken,5.0,2018-10-04 00:18:0
 Desi Bytes,Ashish Kumar,"Litti choka/chicken litti choka is the dish which one should go for in this place. It drags me here every time and mesmerizes my taste buds. A plate of it will full ones stomach. Taste is quite good. Quantity is sufficient.
 Have not tried other dishes, but would love to try them too.",3.0,2018-09-23 01:17:00,0,2,15,9,2018,1,0,285,6
 Desi Bytes,Foodies Hyderabad,"I have ordered chicken hakka noodle,chilli paneer its was mind blowing..its was so yummy,i will like to suggest to give the order from this restaurant....the packing style is also good...thank you...",4.0,2018-09-21 19:53:00,2,31,9494,9,2018,0,0,199,1
-Desi Bytes,Rupsa Sinha,yummy 😋 extra 1 * for wonderful taste,5.0,2018-09-16 23:27:00,0,8,1,9,2018,1,1,37,1
+Desi Bytes,Rupsa Sinha,yummy 😋 extra 1 ⭐ for wonderful taste,5.0,2018-09-16 23:27:00,0,8,1,9,2018,1,1,37,1
 Desi Bytes,Manpreet Kaur,amazing food,5.0,2018-09-16 17:57:00,0,1,,9,2018,1,0,12,1
 Desi Bytes,Manish Singh,"extremely pathetic and third class service. no cleanliness. ordere simple noodle, after waiting one hour waiter comes and tell he forgot. will never ever go again and recommend not to go. this place should be closed.",1.0,2018-09-15 23:52:00,0,4,16,9,2018,1,1,216,5
 Desi Bytes,Kshitiz Goyal,"Very poor service, we ordered through zomato in this restaurant but they automatically cancelled the ordered without even calling there customers and rather than being sorry they are are blaiming us of not picking up the call.....
 Extremely pathetic of this restaurant as well the delivery boy...
 I am sure I am not going to use zomtato or this restaurant services in future...",1.0,2018-09-14 23:58:00,0,1,,9,2018,0,1,379,1
 Desi Bytes,Rithi,Good food,5.0,2018-09-12 12:35:00,0,2,,9,2018,0,0,9,1
-Desi Bytes,SHYAMAL,Litti Chokha* This is actually they're known for .. back in Patna they're serving on of the tasteist litti in town.. But if we really see for something mouth watering near me.. With a budget of 90 bucks .. I really don't recommend if you're not in search of *LITTI CHOKHA* They're good but They can be much better.. I hope you'll know after tasting it once. I don't really believe to spend 90 bucks for a litti Chokha when I'm hungry and have more options in this price..😁,3.0,2018-09-11 13:30:00,1,38,555,9,2018,0,1,472,2
+Desi Bytes,SHYAMAL,Litti Chokha⭐ This is actually they're known for .. back in Patna they're serving on of the tasteist litti in town.. But if we really see for something mouth watering near me.. With a budget of 90 bucks .. I really don't recommend if you're not in search of ⭐LITTI CHOKHA⭐ They're good but They can be much better.. I hope you'll know after tasting it once. I don't really believe to spend 90 bucks for a litti Chokha when I'm hungry and have more options in this price..😁,3.0,2018-09-11 13:30:00,1,38,555,9,2018,0,1,472,2
 Desi Bytes,Roma Agrawal Sit,food was tasty,4.0,2018-08-29 23:14:00,0,4,1,8,2018,0,1,14,1
 Desi Bytes,Deepali K. Nagrani,"Pathetic quality of food!
 Waste of money and the chur chur naan I ordered was a disaster.
@@ -25597,7 +25597,7 @@ The food served here is delicious and mouth-watering. The pictures of the famous
 
 We have ordered Chicken Platter and Daawat Khaas Sabz Kebab Platter. The chicken Platter comes with 4 variety of chicken starters with 6 pieces for the each variety. And Veg platter is served with Paneer Tikka Kebab, Tandoori Broccoli and starter of cauliflower. Both veg and Non-veg platters tasted great.
 
-In the main course we have ordered the famous dish of this restaurant *Daawat Khaas Murgh Musallam* It comes with chicken marinated with ginger garlic paste and stuff with eggs and mutton keema. Leaving the Hyderabad biryani aside, this was the best main course item that I have tried in the recent times. It easily serves for 3-4 adults. And it is really a must try dish if you're visiting this restaurant. Apart from that we have ordered Paneer Pasanda with zafrani Roti. The Paneer Pasanda curry tasted little bit sweet and none of us have liked it.
+In the main course we have ordered the famous dish of this restaurant ⭐Daawat Khaas Murgh Musallam⭐ It comes with chicken marinated with ginger garlic paste and stuff with eggs and mutton keema. Leaving the Hyderabad biryani aside, this was the best main course item that I have tried in the recent times. It easily serves for 3-4 adults. And it is really a must try dish if you're visiting this restaurant. Apart from that we have ordered Paneer Pasanda with zafrani Roti. The Paneer Pasanda curry tasted little bit sweet and none of us have liked it.
 
 And coming to desserts we have ordered Kashmiri Rabdi and Kaddu ki Kheer. Both of them are really good.
 
@@ -25615,9 +25615,9 @@ We first started off with Yakhni shorba which is a mutton soup. Then we tried fe
 Then we tried main course Nalli gosht and Murgh lababdar with bread, Murg musallam and Hyderabadi mutton biryani.
 Then the mocktails Virgin mojito, Mojito fantasy(strawberry), coolers(coconut, cucumber, lime, mint), Mango mule, Blue hawaii, Soda fountain.
 We ended our day with the desserts Shahi tukda and phirni.",5.0,2019-03-21 21:34:00,16,75,174,3,2019,0,1,769,9
-Hyderabadi Daawat,Keerthi M,"*Dum Biryani taste was average no spicy.*
+Hyderabadi Daawat,Keerthi M,"⭐Dum Biryani taste was average no spicy.⭐
 
-I don't know reamaining dishes. I have only orderd dum Biryani. but I am not satisfied with the dum Biryani taste bcz no masala added. I felt like white rice I am eating.chicken piceses also no taste. I can give 2/5.",2.0,2019-03-17 15:25:00,0,48,15,3,2019,1,1,261,6
+I don't know reamaining dishes. I have only orderd dum Biryani. but I am not satisfied with the dum Biryani taste bcz no masala added. I felt like white rice I am eating.chicken piceses also no taste. I can give 2/5.",2.0,2019-03-17 15:25:00,0,48,15,3,2019,1,1,261,5
 Hyderabadi Daawat,BeingHydFoodie,"Follow My Instagram @BeingHydFoodie
 
 Hyderabadi Daawat, A New place in town located at Gachibowli. A place know from serving pure authentic Hyderabadi cuisine! And this has been in my list to visit since this place opened.
@@ -25667,7 +25667,7 @@ Hyderabadi Daawat,Venkat Katta,"Review is for delivery only.
 Ordered Dum la Murg Asifi, with roti and nan.
 Little disappointed with quantity of curry. Was too less. But the taste made it worth the quantity. It was fantastic. Thick rich creamy gravy with almond paste. Absolutely blown away by the taste. Only if quantity was improved it would have been a perfect 5.",4.0,2019-03-06 13:01:00,0,34,821,3,2019,0,1,335,9
 Hyderabadi Daawat,Prithvi Kudupudi,One of the finest dining experience I've ever had!!! Absolutely loved the food and staff were very courteous and they really do their job every well!!!,5.0,2019-03-02 15:59:00,0,2,7,3,2019,1,1,151,3
-Hyderabadi Daawat,Saloni Gupta🧁,"Probably i am having a bad experience with Hyderabad food these days. So i thought of ordering from a 4* restaurant to be sure.
+Hyderabadi Daawat,Saloni Gupta🧁,"Probably i am having a bad experience with Hyderabad food these days. So i thought of ordering from a 4⭐ restaurant to be sure.
 
 Ordered masala kulcha. They definitely dont know what a kulcha is and what masala is. It was a tandoori roti. With a little carrot dressing. How can they charge 50 rs for that? Above all this, it was slightly over burnt and had no butter.
 
@@ -25849,7 +25849,7 @@ The drinks got mixed reactions! Well 60% of them being below average and another
 
 The main course had us dying! We were already so full and there was plenty of food left! Gosht Achari, Murgh Achari, the former being a lil more spicier, were just classic dishes being served and when you combine them with nicely done butter naans, there's nothing better than this combination! Nargisi Kofta was another curry, couldn't differentiate much when compared to the other two.
 
-Special mention goes to 'Sikendari Raan' for ₹1490, it was a treat to watch this magnificent charred leg piece of a lamb on a plate with oozing juices and scrumptious sides! If you're a lamb lover then it is something that'll satisfy all your Mutton cravings! Food gets a solid 10/10! Need to work on the drinks though!
+Special mention goes to 'Sikendari Raan' for rupees1490, it was a treat to watch this magnificent charred leg piece of a lamb on a plate with oozing juices and scrumptious sides! If you're a lamb lover then it is something that'll satisfy all your Mutton cravings! Food gets a solid 10/10! Need to work on the drinks though!
 
 Ambiance - It is a huge property just opposite to SLN Terminus. With ground and first floor seating, it has plenty of space to fill in atleast 130 people at once! Although the place is well lit, I didn't feel anything special being around because right now and always theme based restaurants will give more customer satisfaction rather than just a clean well lit place with good furniture! 'Hyderabadi Daawat' should incorporate anything and everything Hyderabad has to offer in it's culture as nobody else in that area are doing that! I had crazy ideas like making the waiters wear a classic Lungi, have Marfa (Hyderabadi Band Baaja) outside on the weekends, but the classy interiors just don't allow this to happen! Well you never know, I'm not saying that place is bad but they have to add an element of joy! Ambiance gets 8/10!
 
@@ -25857,7 +25857,7 @@ Service - It was decent! As they're pretty fresh in the market, they'll have to 
 
 Why Hyderabadi Daawat? #authentic
 
-Will I Specially go to HD? Sometimes :)",4.0,2018-11-04 20:03:00,9,145,1155,11,2018,1,1,3859,39
+Will I Specially go to HD? Sometimes :)",4.0,2018-11-04 20:03:00,9,145,1155,11,2018,1,1,3864,39
 Hyderabadi Daawat,Manaswini Buddappagari,"It's always good to see restaurants which focus on Hyderabadi cuisine since it's so diverse and encompasses a lot of different varieties within it. Hyderabadi Daawat does justice to it's name but treating us to good Hyderabadi food.
 
 The restaurant is located on the Gachibowli - Kondapur mainroad with convenient parking. The interiors are classy and comfortable.
@@ -25918,7 +25918,7 @@ Hyderabadi Daawat,Muneeb Ul Haq,Excellent food and service. Had my dinner there 
 Hyderabadi Daawat,Syed Abdullah,"excellent place has value for money, the food quality n the ambiance is much more valuable than what we are paying, all my friends have a good time over there, kebabs n biryani wow amazing. 😋",5.0,2018-10-10 16:36:00,1,1,,10,2018,0,0,191,2
 Hyderabadi Daawat,Mohammed Irshad,This is my fourth visit.. love this place... excellent ambience.. tasty food.. authentic Hyderabadi biryani..I loved their crispy chicken.. Must try ..,5.0,2018-10-08 19:29:00,0,2,2,10,2018,0,0,151,1
 Hyderabadi Daawat,Ashfaq Ahmed,This place is classy with nice interior. Staff 5/5 food5/5 must try cheelote kabab. Biryani is lip smacking. A frequent hopper to this place and the quality they serve is unchanged. Keep up the good serve.,5.0,2018-10-05 01:11:00,0,12,6,10,2018,0,0,205,5
-Hyderabadi Daawat,Riyaz Syed,"That's a great buffet....best thing is you can prepare ur own* menu a day ahead...
+Hyderabadi Daawat,Riyaz Syed,"That's a great buffet....best thing is you can prepare ur own⭐ menu a day ahead...
 
 Must try :mutton shorba,prawns curry,mutton curry
 
@@ -25950,13 +25950,13 @@ With tummies full we ordered Blue Mojito and it too scored as expected...Amazing
 
 My View: An amazing yet serene restaurant to visit with Family and friends. Located conveniently in Main road to Gachibowli, Daawat is a must try if you're around or visiting Hyd. When in Daawat- don't forget to try their Pathar-Gosht and not to forget the Amazing Raan they boast of being their super speciality.
 
-Food: 4*
+Food: 4⭐
 
-Ambiance 4.5 *
+Ambiance 4.5 ⭐
 
-Budget Friendly : 4*
+Budget Friendly : 4⭐
 
-Staff Hospitality: 5*
+Staff Hospitality: 5⭐
 
 Happy Fooding !",4.0,2018-10-01 14:58:00,1,16,60,10,2018,0,1,1928,22
 Hyderabadi Daawat,Dilawer Khan,"Here mix kabab platter is very delicious,and murg musslum is very testy ,murgh sholeh kabab ,gulab jamun,eight treasure soup and veg chilly garlic stick was awesome.must go and try.",5.0,2018-09-30 00:03:00,1,1,7,9,2018,1,0,181,1
@@ -26143,18 +26143,18 @@ Deepak -Tall skinny handsome Boy Thankyou for taking care of us
 The Beverage are well priced with good Selection .
 Lamb Chops are Mouth Watering very flavour full
 
-*Best Time To Visit - Any Time
-*Best Days to Visit -All Days Till 2:00 Am
-*Professional Staff- 5 Stars
-*Food-5 Stars
+⭐Best Time To Visit - Any Time
+⭐Best Days to Visit -All Days Till 2:00 Am
+⭐Professional Staff- 5 Stars
+⭐Food-5 Stars
 
-I would definitely recommend Zega *****",5.0,2018-07-01 17:09:00,0,2,8,7,2018,1,0,549,2
+I would definitely recommend Zega ⭐⭐⭐⭐⭐",5.0,2018-07-01 17:09:00,0,2,8,7,2018,1,0,549,2
 Zega - Sheraton Hyderabad Hotel,Bondrazi,Great place with good ambience and out of this world buffet . A bit pricey with the 1500rs tag but is good to once in a week or 2. Overall great experience,4.0,2018-06-25 22:51:00,1,4,1,6,2018,0,1,155,3
 Zega - Sheraton Hyderabad Hotel,Vinodh Iyengar,This is an amazing place to hang out. 10 th floor. Ask for Neel or Arjun to get best of the hospitality. Sai is the masters for making the deadly drinks. Awesome place to unwind. Be here and you will realise. Crispy veg is a must to try and feel the heaven. Kailash Manager is a head strong guy who doesn't know the courtesy to treat the customers,4.0,2018-06-23 03:18:00,0,27,100,6,2018,1,0,347,8
 Zega - Sheraton Hyderabad Hotel,Ishan Verma,One of the best Asian Restaurant's in the city. Promising food and service as well. Liked the hospitality offered by Ms. Rubina. That was amazing.,5.0,2018-06-21 23:01:00,0,4,94,6,2018,0,1,146,5
 Zega - Sheraton Hyderabad Hotel,দেবাশিষ মুখার্জি,"Ambiance, food music are all mind blowing. Hostess Barnali was great she is caring and helping us in choosing yummy food. She is so jolly. We felt like home. Thank you. The view from restaurant was awsm. So we will visit again.",5.0,2018-06-21 00:34:00,0,1,,6,2018,0,0,227,7
 Zega - Sheraton Hyderabad Hotel,প্রমিলা মুখার্জি,Great ambiance and food. Hostess Barnali is awsm. She had helping us in choosing the food and she is so caring. Overall a wonderful experience.,5.0,2018-06-21 00:14:00,0,1,1,6,2018,0,0,143,4
-Zega - Sheraton Hyderabad Hotel,Deo,Would not like to even give 1* as Service was pathetic. Staff was appearing to be busy and had no courtesy to attend our table in the centre of the restaurant. Starters were served after main dish though they were ordered much before. One of the staff half served a dish to a couple of guests on our table and hopped to other table without finishing her task without any apology. We had to keep on asking for a dish (Sushi) which was ordered 90 mins. before it was served. Noisy place...,1.0,2018-06-20 08:21:00,0,4,3,6,2018,0,0,487,7
+Zega - Sheraton Hyderabad Hotel,Deo,Would not like to even give 1⭐ as Service was pathetic. Staff was appearing to be busy and had no courtesy to attend our table in the centre of the restaurant. Starters were served after main dish though they were ordered much before. One of the staff half served a dish to a couple of guests on our table and hopped to other table without finishing her task without any apology. We had to keep on asking for a dish (Sushi) which was ordered 90 mins. before it was served. Noisy place...,1.0,2018-06-20 08:21:00,0,4,3,6,2018,0,0,487,7
 Zega - Sheraton Hyderabad Hotel,Abhishek Kumar Singh,"Table was not clean and there were stains on it, obviously not a 5 start standard. Food was ok ok not something great with limited variety on menu. Service was below average as they were not prompt I had to wait every time to get something served on the plate or need to call them and ask to serve. On a whole the experience was very poor. Nothing great when I visited with my wife for dinner.",2.0,2018-06-11 12:56:00,1,15,55,6,2018,0,0,393,5
 Zega - Sheraton Hyderabad Hotel,Tanya Dutta,"Great place, good music and late night hours. Wanna party after 11pm - zega is the place.
 There is a rooftop to chill on and the club to dance at. Crowd is amazing and perfect for after hours party.",4.0,2018-06-07 00:42:00,0,40,271,6,2018,0,0,199,4
@@ -26687,7 +26687,7 @@ For me this Chinese Pavilion beats any Chinese restaurant in the city.
 
 No wonder its called Chinese Pavilion! :D",5.0,2016-06-14 18:35:00,0,3,74,6,2016,0,0,302,6
 Chinese Pavilion,Shiladitya Chaudhury,"Chinese Pavilion in Banjara HIlls was the first Chinese restaurant in Hyderabad for me and I still have fond memories of the great authentic taste. So, when I heard that they have opened another restaurant in Gachibowli which is near to my home, I was excited and took my family to dinner. First of all, the ambience is a huge let down. It looked like any budget restaurant and I was thinking whether I should get out or go in. Finally, went in expecting some great food.
-We ordered noodles, fried rice, a lamb dish and a brownie. First of all, the prices were exorbitant for the ambience and the overall experience. They are providing a 3* experience and asking for 4*/5* prices. The fired rice was great but the lamb was undercooked. The desert was a disaster. Overall, please avoid this restaurant. I am not sure what is the condition of their Banjara Hills branch now but there are far better Chinese eateries around Gchibowli as well.",1.5,2016-06-05 10:49:00,0,6,3,6,2016,1,0,940,12
+We ordered noodles, fried rice, a lamb dish and a brownie. First of all, the prices were exorbitant for the ambience and the overall experience. They are providing a 3⭐ experience and asking for 4⭐/5⭐ prices. The fired rice was great but the lamb was undercooked. The desert was a disaster. Overall, please avoid this restaurant. I am not sure what is the condition of their Banjara Hills branch now but there are far better Chinese eateries around Gchibowli as well.",1.5,2016-06-05 10:49:00,0,6,3,6,2016,1,0,940,12
 Chinese Pavilion,Abhishek Mahajan,"Madhumathi Mahajan Well to start with nice courteous servers and staff. Excellent serving time, all items arrived on time infact for a change had folks asking if we want to hold a little while before getting next dish out? These things matter a lot when u r paying to eat out.
 
 Now food - Jade chicken soup, nice spinach based creamy stuff, gud way to start the meal. Accompanied by house salad of cabbage and cucumber kimchi, nice dressing but cabbage cut could have been good. Fish cakes were good, loved it and accompanying sauces were awesome. Main course was Mix XO rice of chicken and prawn, well that was the downer. Nothing exciting abt it, maybe shld have coupled with a curry but then Nash, fried rice u shld be able to enjoy dry. Desert - blue berry cheesecake, so here is where me and wifey differ, I thght it was worth it, she says the base wasn't crunchy engh. So try and rate yourself.
