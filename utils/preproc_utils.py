@@ -1,8 +1,9 @@
+import re
 from autocorrect import Speller
 import nltk
 from unidecode import unidecode
 from nltk.tokenize.treebank import TreebankWordDetokenizer
-from gibberish_detector import classify_gibberish
+from utils.gibberish_detector import classify_gibberish
 
 
 def regex_cleaner(raw_text, 
@@ -57,6 +58,7 @@ def main_pipeline(raw_text,
                   print_output = True, 
                   no_stopwords = True,
                   custom_stopwords = [],
+                  exception_stopwords = [],
                   convert_diacritics = True, 
                   lowercase = True, 
                   lemmatized = True,
@@ -76,9 +78,10 @@ def main_pipeline(raw_text,
     tokenized_text = [re.sub("'m","am",token) for token in tokenized_text]
     tokenized_text = [re.sub("n't","not",token) for token in tokenized_text]
     tokenized_text = [re.sub("'s","is",token) for token in tokenized_text]
-
+    
     if no_stopwords:
         stopwords = nltk.corpus.stopwords.words("english")
+        stopwords = list(set(stopwords) - set(exception_stopwords))
         tokenized_text = [item for item in tokenized_text if item.lower() not in stopwords]
     
     if convert_diacritics:
